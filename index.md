@@ -87,15 +87,6 @@ Minha trajetória vai desde a gestão técnica em DB2 Mainframe de missão crít
 
 ---
 
-## Thought Leadership & Artigos
-
-1. **De 2014 a 2026: A Evolução da IA** — *Do IBM Watson ao GenAI Corporativo e o Que Mudou na Prática de Adoção.*
-2. **Escalando o GitHub Copilot para ~1.000 Desenvolvedores** — *Da Habilitação Inicial à Maturidade no SDLC.*
-3. **As Três Lentes de Decisão Tecnológica** — *Equilibrando Viabilidade Técnica, FinOps e Risco/Adoção.*
-4. **De 3 Semanas para Tempo Real** — *Uma Lição de Simplificação Operacional e Automação de Reporting.*
-
----
-
 <section id="contato">
   <h2>Contato &amp; Advisory</h2>
   <p>Disponível para posições executivas em estratégia de IA, estratégia de tecnologia, transformação de negócios e conselhos consultivos.</p>
