@@ -12,22 +12,22 @@ title: Ricardo Squassina Lee | Executivo de Estratégia de Tecnologia & IA
   </p>
 
   <div class="cta-buttons">
-    <a href="https://www.linkedin.com/in/ricardo-squassina-lee" class="btn btn-primary" target="_blank">LinkedIn</a>
+    <a href="#contato" class="btn btn-primary">Entrar em Contato</a>
+    <a href="https://www.linkedin.com/in/ricardo-squassina-lee" class="btn btn-secondary" target="_blank">LinkedIn</a>
     <a href="https://github.com/squassina" class="btn btn-secondary" target="_blank">GitHub</a>
-    <a href="mailto:ricardoslee@gmail.com" class="btn btn-secondary">Contato via E-mail</a>
   </div>
 </div>
 
 ## Sobre Mim
 
-Líder e estrategista de tecnologia com mais de **25 anos de experiência prática acumulada**, com passagens de destaque por gigantes globais como **Microsoft** e **IBM**. Sou especialista em traduzir inovação tecnológica em valor real e mensurável de negócios, atuando na interseção entre estratégia corporativa, inteligência artificial, dados e engenharia de software.
+Líder e estrategista de tecnologia com mais de **25 anos de experiência prática acumulada** (desde 1998), com passagens de destaque por gigantes globais como **Microsoft** e **IBM**. Sou especialista em traduzir inovação tecnológica em valor real e mensurável de negócios, atuando na interseção entre estratégia corporativa, inteligência artificial, dados e engenharia de software.
 
 Como um **Systems Builder**, minha energia está em trazer ordem e clareza a cenários ambíguos ou altamente complexos. Aplico consistentemente a **Lente Tripla de Avaliação Tecnológica**: 
 1. **Viabilidade Técnica** (arquitetura resiliente e escalável)
 2. **Economia** (FinOps, TCO, precificação e margem sustentável)
 3. **Risco e Adoção** (segurança, compliance, governança e mudança cultural)
 
-Minha trajetória vai desde a gestão técnica em DB2 Mainframe de missão crítica e auditoria de segurança até a introdução pioneira do IBM Watson na América Latina e a condução da adoção de IA em escala na Microsoft.
+Minha trajetória vai desde a gestão técnica em DB2 Mainframe de missão crítica e auditoria de segurança até a introdução pioneira do IBM Watson na América Latina (2014) e a condução da adoção de IA em escala para mais de 1.000 engenheiros na Microsoft.
 
 ---
 
@@ -59,9 +59,9 @@ Minha trajetória vai desde a gestão técnica em DB2 Mainframe de missão crít
 
 ## Casos de Impacto & Destaques
 
-* **Adoção de IA Assistida em Escala (GitHub Copilot):** Condução de programas de habilitação, segurança e maturidade no ciclo de desenvolvimento (SDLC) para **~1.000 desenvolvedores** em clientes corporativos, além do apoio a times de **~100** e **~50** engenheiros.
+* **Adoção de IA Assistida em Escala (GitHub Copilot):** Condução de programas de habilitação, segurança e maturidade no ciclo de desenvolvimento (SDLC) para **~1.000 desenvolvedores** em cliente corporativo tier-1, além do apoio a times de **~100** e **~50** engenheiros.
 * **Transformação de Dados & Analytics Corporativo:** Aconselhamento técnico e liderança em iniciativa de Dados e IA englobando **~200 profissionais** (Power BI, Microsoft Fabric).
-* **Pioneirismo em IA Cognitiva (IBM Watson LatAm):** Liderança de arquitetura de soluções e localização ("tropicalização") de modelos comerciais e regulatórios para o setor público e privado no Brasil, América do Sul hispânica e México.
+* **Pioneirismo em IA Cognitiva (IBM Watson LatAm):** Liderança de arquitetura de soluções e localização ("tropicalização") de modelos comerciais e regulatórios para o setor público e privado no Brasil, América do Sul hispânica e México (2014).
 * **Automação de Governance & Reporting Executivo:** Substituição de processos manuais de relatório de 3 semanas por dashboards em tempo real (Azure DevOps + Power BI), escalados para a organização das Américas.
 * **Projetos Open Source & Aplicações Web:**
   * **XadrezMestre:** Treinador tático de xadrez em React, TypeScript, Tailwind CSS e Web Worker com engine Stockfish.
@@ -85,16 +85,9 @@ Minha trajetória vai desde a gestão técnica em DB2 Mainframe de missão crít
 ### **Início de Carreira (1998 – 2004)**
 * **Administrador de Sistemas & Desenvolvedor:** Gestão de infraestrutura Windows/Linux e desenvolvimento de sistemas corporativos em Java, COBOL e Lotus Notes.
 
-### Formação & Credenciais
-* **FGV:** MBA em Big Data e Analytics (2017–2019)
-* **FATEC-SP:** Pós-graduação em Análise e Projeto de Sistemas | Tecnólogo em Processamento de Dados
-* **Certificações Principais:** GitHub Copilot (2026-2028), GitHub Foundations (2026-2028), Azure AI Engineer Associate, Azure Data Scientist Associate, Azure Cosmos DB Specialty, Advanced CSPO, ITIL v3.
-
 ---
 
 ## Thought Leadership & Artigos
-
-Espaço dedicado a publicações sobre estratégia, arquitetura e governança tecnológica:
 
 1. **De 2014 a 2026: A Evolução da IA** — *Do IBM Watson ao GenAI Corporativo e o Que Mudou na Prática de Adoção.*
 2. **Escalando o GitHub Copilot para ~1.000 Desenvolvedores** — *Da Habilitação Inicial à Maturidade no SDLC.*
@@ -103,10 +96,27 @@ Espaço dedicado a publicações sobre estratégia, arquitetura e governança te
 
 ---
 
-## Contato & Advisory
+<section id="contato">
+  <h2>Contato &amp; Advisory</h2>
+  <p>Disponível para posições executivas em estratégia de IA, estratégia de tecnologia, transformação de negócios e conselhos consultivos.</p>
 
-Disponível para posições executivas em estratégia de IA, estratégia de tecnologia e transformação de negócios, além de conselhos consultivos.
-
-* **E-mail:** [ricardoslee@gmail.com](mailto:ricardoslee@gmail.com)
-* **LinkedIn:** [linkedin.com/in/ricardo-squassina-lee](https://www.linkedin.com/in/ricardo-squassina-lee)
-* **Localização:** São Paulo, SP — Brasil
+  <form action="https://formspree.io/f/mrppdrvp" method="POST" class="contact-form">
+    <div class="form-group">
+      <label for="name">Nome completo</label>
+      <input type="text" id="name" name="name" required placeholder="Seu nome">
+    </div>
+    <div class="form-group">
+      <label for="email">E-mail para resposta</label>
+      <input type="email" id="email" name="_replyto" required placeholder="seu.email@empresa.com">
+    </div>
+    <div class="form-group">
+      <label for="subject">Assunto</label>
+      <input type="text" id="subject" name="_subject" required placeholder="Ex: Oportunidade Executiva / Advisory">
+    </div>
+    <div class="form-group">
+      <label for="message">Mensagem</label>
+      <textarea id="message" name="message" rows="5" required placeholder="Escreva sua mensagem..."></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Enviar Mensagem</button>
+  </form>
+</section>
