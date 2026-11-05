@@ -32,10 +32,23 @@
         </label>
 
         <div class="trigger">
-          <a class="page-link" href="{{ '/' | relative_url }}">Início</a>
-          <a class="page-link" href="{{ '/#sobre-mim' | relative_url }}">Sobre</a>
-          <a class="page-link" href="{{ '/#pilares-de-atuação' | relative_url }}">Pilares</a>
-          <a class="page-link" href="{{ '/#casos-de-impacto--projetos' | relative_url }}">Projetos</a>
+          {% if page.lang == "en" %}
+            <!-- Menu exibido na versão em Inglês -->
+            <a class="page-link" href="{{ '/index_en.html#about-me' | relative_url }}">About</a>
+            <a class="page-link" href="{{ '/index_en.html#core-capabilities' | relative_url }}">Capabilities</a>
+            <a class="page-link" href="{{ '/index_en.html#key-impact--highlights' | relative_url }}">Projects</a>
+            <a class="page-link" href="{{ '/index_en.html#contact' | relative_url }}">Contact</a>
+            <a class="page-link lang-btn" href="{{ '/' | relative_url }}">PT</a>
+          {% else %}
+            <!-- Menu exibido na versão em Português -->
+            <a class="page-link" href="{{ '/#sobre-mim' | relative_url }}">Sobre</a>
+            <a class="page-link" href="{{ '/#pilares-de-atuação' | relative_url }}">Pilares</a>
+            <a class="page-link" href="{{ '/#casos-de-impacto--destaques' | relative_url }}">Projetos</a>
+            <a class="page-link" href="{{ '/#contato' | relative_url }}">Contato</a>
+            <a class="page-link lang-btn" href="{{ '/index_en.html' | relative_url }}">EN</a>
+          {% endif %}
+
+          <!-- Links externos de perfil -->
           <a class="page-link" href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>
           <a class="page-link" href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub</a>
         </div>

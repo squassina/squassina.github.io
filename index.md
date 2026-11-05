@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ricardo Squassina Lee | Executivo de Estratégia de Tecnologia & IA
+lang: pt
 ---
 
 <div class="hero-section">
