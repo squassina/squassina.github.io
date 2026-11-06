@@ -1,11 +1,11 @@
-title: Ricardo Squassina Lee
-tagline: Executivo de Estratégia de Tecnologia, IA e Transformação de Negócios | IA Generativa & Cloud | Ex-Microsoft, Ex-IBM Watson
-description: "Portfólio executivo e artigos de Ricardo Squassina Lee. Strategist e Systems Builder focado em IA corporativa, arquitetura de nuvem, FinOps e governança de sistemas."
+title: Ricardo Lee
+tagline: Executivo de Estratégia de Tecnologia, IA e Transformação de Negócios
+description: "Portfólio executivo e artigos. Strategist e Systems Builder focado em IA corporativa, nuvem, FinOps e governança."
 url: "https://squassina.github.io"
 baseurl: ""
 
 author:
-  name: Ricardo Squassina Lee
+  name: Ricardo Lee
   linkedin: ricardo-squassina-lee
   github: squassina
 
@@ -13,3 +13,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-seo-tag
+
+sass:
+  quiet_deps: true

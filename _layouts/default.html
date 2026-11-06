@@ -12,7 +12,7 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
   {% if site.plugins contains 'jekyll-seo-tag' or site.gems contains 'jekyll-seo-tag' %}
-    {% seo %}
+    {% seo title=false %}
   {% endif %}
 </head>
 
@@ -33,24 +33,18 @@
 
         <div class="trigger">
           {% if page.lang == "en" %}
-            <!-- Menu exibido na versão em Inglês -->
-            <a class="page-link" href="{{ '/index_en.html#about-me' | relative_url }}">About</a>
-            <a class="page-link" href="{{ '/index_en.html#core-capabilities' | relative_url }}">Capabilities</a>
-            <a class="page-link" href="{{ '/index_en.html#key-impact--highlights' | relative_url }}">Projects</a>
+            <a class="page-link" href="{{ '/index_en.html#about' | relative_url }}">About</a>
+            <a class="page-link" href="{{ '/index_en.html#capabilities' | relative_url }}">Capabilities</a>
+            <a class="page-link" href="{{ '/index_en.html#projects' | relative_url }}">Projects</a>
             <a class="page-link" href="{{ '/index_en.html#contact' | relative_url }}">Contact</a>
             <a class="page-link lang-btn" href="{{ '/' | relative_url }}">PT</a>
           {% else %}
-            <!-- Menu exibido na versão em Português -->
-            <a class="page-link" href="{{ '/#sobre-mim' | relative_url }}">Sobre</a>
-            <a class="page-link" href="{{ '/#pilares-de-atuação' | relative_url }}">Pilares</a>
-            <a class="page-link" href="{{ '/#casos-de-impacto--destaques' | relative_url }}">Projetos</a>
+            <a class="page-link" href="{{ '/#sobre' | relative_url }}">Sobre</a>
+            <a class="page-link" href="{{ '/#pilares' | relative_url }}">Pilares</a>
+            <a class="page-link" href="{{ '/#projetos' | relative_url }}">Projetos</a>
             <a class="page-link" href="{{ '/#contato' | relative_url }}">Contato</a>
             <a class="page-link lang-btn" href="{{ '/index_en.html' | relative_url }}">EN</a>
           {% endif %}
-
-          <!-- Links externos de perfil -->
-          <a class="page-link" href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>
-          <a class="page-link" href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub</a>
         </div>
       </nav>
     </div>
@@ -63,26 +57,20 @@
   </main>
 
   <footer class="site-footer h-card">
-    <data class="u-url" href="{{ '/' | relative_url }}"></data>
-
     <div class="wrapper">
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
-          <ul class="contact-list">
-            <li class="p-name">{{ site.author.name | escape }}</li>
-            {% if site.author.email %}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-            {% endif %}
-          </ul>
+          <p class="footer-heading">Estratégia de Tecnologia &amp; IA</p>
+          <p class="muted-text">São Paulo, SP — Brasil</p>
         </div>
 
         <div class="footer-col footer-col-2">
           <ul class="social-media-list">
-            {% if site.author.github %}
-            <li><a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener"><span class="username">GitHub</span></a></li>
-            {% endif %}
             {% if site.author.linkedin %}
-            <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener"><span class="username">LinkedIn</span></a></li>
+            <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener">LinkedIn</a></li>
+            {% endif %}
+            {% if site.author.github %}
+            <li><a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub</a></li>
             {% endif %}
           </ul>
         </div>

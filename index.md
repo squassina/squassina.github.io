@@ -1,90 +1,155 @@
 ---
 layout: default
-title: Ricardo Squassina Lee | Executivo de Estratégia de Tecnologia & IA
+title: Portfólio & Engenharia de Sistemas
 lang: pt
 ---
 
 <div class="hero-section">
-  <h1>Ricardo Squassina Lee</h1>
-  <div class="tagline">Executivo de Estratégia de Tecnologia, IA e Transformação de Negócios | IA Generativa e Cloud | Ex-Microsoft, Ex-IBM Watson</div>
+  <h1>Estratégia de Tecnologia, IA & Sistemas</h1>
+  <div class="tagline">Systems Builder | IA Generativa, Agentes & Nuvem | Ex-Microsoft, Ex-IBM Watson</div>
   
   <p class="pitch">
-    Transformo a complexidade de IA, Nuvem e Dados em arquiteturas de negócios estruturadas, viáveis e de alto impacto. Atuo como a ponte entre o C-Suite, a engenharia e as operações comerciais, alinhando equipes multifuncionais para resolver ambiguidades e converter investimentos tecnológicos em execução previsível, governada e mensurável.
+    Construo soluções de alta complexidade conectando arquitetura de software, inteligência artificial e estratégia de negócios. Confira abaixo meus principais projetos de código aberto, ferramentas de IA e marcos de engenharia corporativa.
   </p>
 
   <div class="cta-buttons">
-    <a href="#contato" class="btn btn-primary">Entrar em Contato</a>
-    <a href="https://www.linkedin.com/in/ricardo-squassina-lee" class="btn btn-secondary" target="_blank">LinkedIn</a>
-    <a href="https://github.com/squassina" class="btn btn-secondary" target="_blank">GitHub</a>
+    <a href="#projetos" class="btn btn-primary">Explorar Projetos</a>
   </div>
 </div>
 
-## Sobre Mim
+<section id="projetos">
+  <h2>Projetos &amp; Código em Destaque</h2>
+  <p class="muted-text">Aplicações web, agentes autônomos de IA e pipelines de MLOps desenvolvidos para solucionar problemas complexos de software e automação.</p>
 
-Líder e estrategista de tecnologia com mais de **25 anos de experiência prática acumulada** (desde 1998), com passagens de destaque por gigantes globais como **Microsoft** e **IBM**. Sou especialista em traduzir inovação tecnológica em valor real e mensurável de negócios, atuando na interseção entre estratégia corporativa, inteligência artificial, dados e engenharia de software.
+  <div class="portfolio-grid">
 
-Como um **Systems Builder**, minha energia está em trazer ordem e clareza a cenários ambíguos ou altamente complexos. Aplico consistentemente a **Lente Tripla de Avaliação Tecnológica**: 
-1. **Viabilidade Técnica** (arquitetura resiliente e escalável)
-2. **Economia** (FinOps, TCO, precificação e margem sustentável)
-3. **Risco e Adoção** (segurança, compliance, governança e mudança cultural)
+    <!-- Project 1: TechJobScout -->
+    <div class="project-card">
+      <div>
+        <div class="project-header">
+          <h3>TechJobScout</h3>
+          <span class="project-type">AI Agent</span>
+        </div>
+        <p>Agente autônomo de scouting de oportunidades de tecnologia. Realiza scraping de descrições de cargos ATS via Playwright, avalia a aderência técnica com LLMs e dispara notificações Webhook.</p>
+        <div class="tech-chips">
+          <span class="chip">Python</span>
+          <span class="chip">Playwright</span>
+          <span class="chip">LiteLLM / Gemini API</span>
+          <span class="chip">GitHub Actions</span>
+        </div>
+      </div>
+      <div class="project-links">
+        <a href="https://github.com/squassina/TechJobScout" target="_blank" class="btn-sm btn-outline">GitHub ↗</a>
+      </div>
+    </div>
 
-Minha trajetória vai desde a gestão técnica em DB2 Mainframe de missão crítica e auditoria de segurança até a introdução pioneira do IBM Watson na América Latina (2014) e a condução da adoção de IA em escala para mais de 1.000 engenheiros na Microsoft.
+    <!-- Project 2: CV-JD-Match -->
+    <div class="project-card">
+      <div>
+        <div class="project-header">
+          <h3>CV-JD-Match</h3>
+          <span class="project-type">AI Workbench</span>
+        </div>
+        <p>Aplicação web single-file para avaliação de compatibilidade entre currículos e descrições de vagas. Suporta inferência local com llama.cpp e provedores de IA multi-LLM.</p>
+        <div class="tech-chips">
+          <span class="chip">JavaScript</span>
+          <span class="chip">llama.cpp</span>
+          <span class="chip">Local AI</span>
+          <span class="chip">Multi-LLM API</span>
+        </div>
+      </div>
+      <div class="project-links">
+        <a href="https://github.com/squassina/CV-JD-Match" target="_blank" class="btn-sm btn-outline">GitHub ↗</a>
+      </div>
+    </div>
+
+    <!-- Project 3: Intro-DevOps-MLOps -->
+    <div class="project-card">
+      <div>
+        <div class="project-header">
+          <h3>Intro-DevOps-MLOps</h3>
+          <span class="project-type">MLOps &amp; Pipeline</span>
+        </div>
+        <p>Repositório de conceitos e automações cobrindo MLOps, controle de versão de dados e modelos, conteinerização e integração contínua (CI/CD) para pipelines analíticos.</p>
+        <div class="tech-chips">
+          <span class="chip">Python</span>
+          <span class="chip">R</span>
+          <span class="chip">Docker</span>
+          <span class="chip">GitHub Actions</span>
+          <span class="chip">MLOps</span>
+        </div>
+      </div>
+      <div class="project-links">
+        <a href="https://github.com/squassina/Intro-DevOps-MLOps" target="_blank" class="btn-sm btn-outline">GitHub ↗</a>
+      </div>
+    </div>
+
+    <!-- Project 4: XadrezMestre -->
+    <div class="project-card">
+      <div>
+        <div class="project-header">
+          <h3>XadrezMestre</h3>
+          <span class="project-type">Web App</span>
+        </div>
+        <p>Plataforma interativa de treinamento tático de xadrez com cálculo de variantes e análise posicional em tempo real executados em Web Worker com Stockfish engine.</p>
+        <div class="tech-chips">
+          <span class="chip">React</span>
+          <span class="chip">TypeScript</span>
+          <span class="chip">Vite</span>
+          <span class="chip">Tailwind CSS</span>
+          <span class="chip">Stockfish Engine</span>
+        </div>
+      </div>
+      <div class="project-links">
+        <a href="https://squassina.github.io/XadrezMestre" target="_blank" class="btn-sm btn-outline">Demo Online ↗</a>
+        <a href="https://github.com/squassina/XadrezMestre" target="_blank" class="btn-sm btn-outline">GitHub ↗</a>
+      </div>
+    </div>
+
+  </div>
+</section>
 
 ---
 
-## Pilares de Atuação
-
-<div class="grid-2">
-  <div class="card">
-    <h3>1. Tradução Estratégica & Advisory C-Level</h3>
-    <p>Alinhamento contínuo entre prioridades de negócios do C-Suite, Finanças, Segurança e roadmaps executáveis de engenharia.</p>
+<section id="pilares">
+  <h2>Lentes de Decisão &amp; Capacidades</h2>
+  <div class="grid-2">
+    <div class="card">
+      <h3>1. Tradução Estratégica C-Level</h3>
+      <p>Conexão direta entre objetivos de negócios do C-Suite e arquiteturas de engenharia executáveis.</p>
+    </div>
+    <div class="card">
+      <h3>2. IA Generativa &amp; SDLC em Escala</h3>
+      <p>Adoção corporativa de GitHub Copilot e IA assistida para ecossistemas de <strong>~1.000 desenvolvedores</strong>.</p>
+    </div>
+    <div class="card">
+      <h3>3. FinOps &amp; Governança de Nuvem</h3>
+      <p>Otimização de arquitetura, previsibilidade de custos operacionais e margem financeira sustentável.</p>
+    </div>
+    <div class="card">
+      <h3>4. Orquestração Transversal</h3>
+      <p>Liderança matricial unindo Engenharia, Produto, Vendas e Finanças para entregas sob alta complexidade.</p>
+    </div>
   </div>
-  
-  <div class="card">
-    <h3>2. Escala Operacional de IA & Dados</h3>
-    <p>Transição da experimentação para a adoção empresarial segura com GitHub Copilot, Microsoft Fabric e IBM Watson.</p>
-  </div>
-
-  <div class="card">
-    <h3>3. FinOps & Governança de Nuvem</h3>
-    <p>Dimensionamento de arquitetura, previsibilidade financeira em cloud e otimização contínua de custos operacionais.</p>
-  </div>
-
-  <div class="card">
-    <h3>4. Orquestração & Liderança Transversal</h3>
-    <p>Alinhamento de equipes multifuncionais (Vendas, CS, Engenharia e Finanças) sem autoridade formal para entregas de alta complexidade.</p>
-  </div>
-</div>
+</section>
 
 ---
 
-## Casos de Impacto & Destaques
-
-* **Adoção de IA Assistida em Escala (GitHub Copilot):** Condução de programas de habilitação, segurança e maturidade no ciclo de desenvolvimento (SDLC) para **~1.000 desenvolvedores** em cliente corporativo tier-1, além do apoio a times de **~100** e **~50** engenheiros.
-* **Transformação de Dados & Analytics Corporativo:** Aconselhamento técnico e liderança em iniciativa de Dados e IA englobando **~200 profissionais** (Power BI, Microsoft Fabric).
-* **Pioneirismo em IA Cognitiva (IBM Watson LatAm):** Liderança de arquitetura de soluções e localização ("tropicalização") de modelos comerciais e regulatórios para o setor público e privado no Brasil, América do Sul hispânica e México (2014).
-* **Automação de Governance & Reporting Executivo:** Substituição de processos manuais de relatório de 3 semanas por dashboards em tempo real (Azure DevOps + Power BI), escalados para a organização das Américas.
-* **Projetos Open Source & Aplicações Web:**
-  * **XadrezMestre:** Treinador tático de xadrez em React, TypeScript, Tailwind CSS e Web Worker com engine Stockfish.
-  * **TechJobScout & CV-JD-Match:** Utilitários de automação e avaliação de vagas com IA local (llama.cpp) e APIs multi-provedor.
-
----
-
-## Trajetória Profissional
-
-### **Microsoft**
-* **Account Technology Strategist (ATS) — Enterprise Strategy** *(2022 – 2026)*: Advisory tecnológico C-Level para contas estratégicas Enterprise e Serviços Financeiros em IA, Cloud e Dados.
-* **Senior Software Engineer — Arquitetura Cloud & IA** *(2018 – 2022)*: Liderança em migrações para Azure Cosmos DB, ingestão em tempo real no Azure Data Explorer e soluções de IA para segurança.
-* **Sr. Business Programs & Operations Manager** *(2017 – 2018)*: Gestão de operações regionais LatAm (orçamento de US$ 6M) e automação de BI executivo.
-
-### **IBM**
-* **Services Solutions Manager — Watson Latin America** *(2014 – 2017)*: Liderança regional da estratégia de entrega e arquitetura de IA cognitiva nos primeiros anos da IA corporativa.
-* **Technical Solution Manager — Application Management Services** *(2012 – 2014)*: Desenho de propostas empresariais integrando requisitos técnicos, precificação e margens.
-* **Security, Compliance & IT Program Manager** *(2008 – 2012)*: Gestão de programas nacionais de segurança da informação, auditorias e simulações de Disaster Recovery.
-* **IT Specialist — Líder de Arquitetura & DBA DB2 Mainframe** *(2004 – 2011)*: Recuperação de projetos críticos, gestão de releases e otimização de bancos relacionais de alta disponibilidade.
-
-### **Início de Carreira (1998 – 2004)**
-* **Administrador de Sistemas & Desenvolvedor:** Gestão de infraestrutura Windows/Linux e desenvolvimento de sistemas corporativos em Java, COBOL e Lotus Notes.
+<section id="sobre">
+  <h2>Marcos de Carreira &amp; Credenciais</h2>
+  <div class="grid-2">
+    <div class="card">
+      <h3>Microsoft (2018 – 2026)</h3>
+      <p><strong>Account Technology Strategist &amp; Sr. Software Engineer</strong></p>
+      <p>Advisory tecnológico enterprise em IA/Cloud/Dados. Liderança em projetos com Azure Cosmos DB, Azure Data Explorer e habilitação do GitHub Copilot para ~1.000 engenheiros.</p>
+    </div>
+    <div class="card">
+      <h3>IBM (2004 – 2018)</h3>
+      <p><strong>Services Solutions Manager &amp; Security Program Manager</strong></p>
+      <p>Pioneirismo com IBM Watson na América Latina (2014). Trajetória abrangendo arquitetura de propostas, governança de segurança corporativa e DBA Mainframe DB2.</p>
+    </div>
+  </div>
+</section>
 
 ---
 
@@ -92,23 +157,92 @@ Minha trajetória vai desde a gestão técnica em DB2 Mainframe de missão crít
   <h2>Contato &amp; Advisory</h2>
   <p>Disponível para posições executivas em estratégia de IA, estratégia de tecnologia, transformação de negócios e conselhos consultivos.</p>
 
-  <form action="https://formspree.io/f/mrppdrvp" method="POST" class="contact-form">
-    <div class="form-group">
-      <label for="name">Nome completo</label>
-      <input type="text" id="name" name="name" required placeholder="Seu nome">
-    </div>
-    <div class="form-group">
-      <label for="email">E-mail para resposta</label>
-      <input type="email" id="email" name="_replyto" required placeholder="seu.email@empresa.com">
-    </div>
-    <div class="form-group">
-      <label for="subject">Assunto</label>
-      <input type="text" id="subject" name="_subject" required placeholder="Ex: Oportunidade Executiva / Advisory">
-    </div>
-    <div class="form-group">
-      <label for="message">Mensagem</label>
-      <textarea id="message" name="message" rows="5" required placeholder="Escreva sua mensagem..."></textarea>
-    </div>
-    <button type="submit" class="btn btn-primary">Enviar Mensagem</button>
-  </form>
+  <style>
+    .contact-card {
+      background: #ffffff;
+      border: 1px solid #e2e8f0;
+      border-radius: 12px;
+      padding: 2rem;
+      margin-top: 1.5rem;
+      max-width: 650px;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    }
+    .form-group {
+      margin-bottom: 1.5rem;
+      display: flex;
+      flex-direction: column;
+    }
+    .form-group label {
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+      color: #0d5c3a;
+      font-size: 0.95rem;
+      text-align: left;
+    }
+    .form-group input,
+    .form-group textarea {
+      width: 100%;
+      padding: 0.75rem 1rem;
+      border: 1.5px solid #cbd5e1;
+      border-radius: 8px;
+      font-size: 0.95rem;
+      color: #1e293b;
+      background-color: #f8fafc;
+      box-sizing: border-box;
+      transition: all 0.2s ease-in-out;
+      margin: 0;
+    }
+    .form-group input:focus,
+    .form-group textarea:focus {
+      outline: none;
+      border-color: #10b981;
+      background-color: #ffffff;
+      box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.15);
+    }
+    .form-group textarea {
+      resize: vertical;
+      min-height: 120px;
+    }
+    .btn-submit {
+      background-color: #10b981;
+      color: #041a12 !important;
+      font-weight: 700;
+      padding: 0.75rem 1.5rem;
+      border: none;
+      border-radius: 8px;
+      font-size: 0.95rem;
+      cursor: pointer;
+      transition: background-color 0.2s ease;
+      display: inline-block;
+    }
+    .btn-submit:hover {
+      background-color: #059669;
+    }
+  </style>
+
+  <div class="contact-card">
+    <form action="https://formspree.io/f/mrppdrvp" method="POST">
+      <div class="form-group">
+        <label for="name">Nome completo</label>
+        <input type="text" id="name" name="name" required placeholder="Seu nome">
+      </div>
+      
+      <div class="form-group">
+        <label for="email">E-mail para resposta</label>
+        <input type="email" id="email" name="_replyto" required placeholder="seu.email@empresa.com">
+      </div>
+      
+      <div class="form-group">
+        <label for="subject">Assunto</label>
+        <input type="text" id="subject" name="_subject" required placeholder="Ex: Parceria / Advisory / Oportunidade">
+      </div>
+      
+      <div class="form-group">
+        <label for="message">Mensagem</label>
+        <textarea id="message" name="message" required placeholder="Escreva sua mensagem..."></textarea>
+      </div>
+      
+      <button type="submit" class="btn-submit">Enviar Mensagem</button>
+    </form>
+  </div>
 </section>
