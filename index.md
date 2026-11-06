@@ -2,10 +2,11 @@
 layout: default
 title: Portfólio & Engenharia de Sistemas
 lang: pt
+description: "Portfólio de Ricardo Lee: estratégia de tecnologia, IA generativa, agentes e nuvem. Projetos open source, trajetória na Microsoft e IBM e contato para advisory."
 ---
 
 <div class="hero-section">
-  <h1>Estratégia de Tecnologia, IA & Sistemas</h1>
+  <h1>Estratégia de Tecnologia, IA &amp; Sistemas</h1>
   <div class="tagline">Systems Builder | IA Generativa, Agentes & Nuvem | Ex-Microsoft, Ex-IBM Watson</div>
   
   <p class="pitch">
@@ -39,7 +40,7 @@ lang: pt
         </div>
       </div>
       <div class="project-links">
-        <a href="https://github.com/squassina/TechJobScout" target="_blank" class="btn-sm btn-outline">GitHub ↗</a>
+        <a href="https://github.com/squassina/TechJobScout" target="_blank" rel="noopener noreferrer" class="btn-sm btn-outline">GitHub ↗</a>
       </div>
     </div>
 
@@ -59,7 +60,7 @@ lang: pt
         </div>
       </div>
       <div class="project-links">
-        <a href="https://github.com/squassina/CV-JD-Match" target="_blank" class="btn-sm btn-outline">GitHub ↗</a>
+        <a href="https://github.com/squassina/CV-JD-Match" target="_blank" rel="noopener noreferrer" class="btn-sm btn-outline">GitHub ↗</a>
       </div>
     </div>
 
@@ -80,7 +81,7 @@ lang: pt
         </div>
       </div>
       <div class="project-links">
-        <a href="https://github.com/squassina/Intro-DevOps-MLOps" target="_blank" class="btn-sm btn-outline">GitHub ↗</a>
+        <a href="https://github.com/squassina/Intro-DevOps-MLOps" target="_blank" rel="noopener noreferrer" class="btn-sm btn-outline">GitHub ↗</a>
       </div>
     </div>
 
@@ -101,15 +102,13 @@ lang: pt
         </div>
       </div>
       <div class="project-links">
-        <a href="https://squassina.github.io/XadrezMestre" target="_blank" class="btn-sm btn-outline">Demo Online ↗</a>
-        <a href="https://github.com/squassina/XadrezMestre" target="_blank" class="btn-sm btn-outline">GitHub ↗</a>
+        <a href="https://squassina.github.io/XadrezMestre" target="_blank" rel="noopener noreferrer" class="btn-sm btn-outline">Demo Online ↗</a>
+        <a href="https://github.com/squassina/XadrezMestre" target="_blank" rel="noopener noreferrer" class="btn-sm btn-outline">GitHub ↗</a>
       </div>
     </div>
 
   </div>
 </section>
-
----
 
 <section id="pilares">
   <h2>Lentes de Decisão &amp; Capacidades</h2>
@@ -133,8 +132,6 @@ lang: pt
   </div>
 </section>
 
----
-
 <section id="sobre">
   <h2>Marcos de Carreira &amp; Credenciais</h2>
   <div class="grid-2">
@@ -151,85 +148,24 @@ lang: pt
   </div>
 </section>
 
----
-
 <section id="contato">
   <h2>Contato &amp; Advisory</h2>
   <p>Disponível para posições executivas em estratégia de IA, estratégia de tecnologia, transformação de negócios e conselhos consultivos.</p>
 
-  <style>
-    .contact-card {
-      background: #ffffff;
-      border: 1px solid #e2e8f0;
-      border-radius: 12px;
-      padding: 2rem;
-      margin-top: 1.5rem;
-      max-width: 650px;
-      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-    }
-    .form-group {
-      margin-bottom: 1.5rem;
-      display: flex;
-      flex-direction: column;
-    }
-    .form-group label {
-      font-weight: 600;
-      margin-bottom: 0.5rem;
-      color: #0d5c3a;
-      font-size: 0.95rem;
-      text-align: left;
-    }
-    .form-group input,
-    .form-group textarea {
-      width: 100%;
-      padding: 0.75rem 1rem;
-      border: 1.5px solid #cbd5e1;
-      border-radius: 8px;
-      font-size: 0.95rem;
-      color: #1e293b;
-      background-color: #f8fafc;
-      box-sizing: border-box;
-      transition: all 0.2s ease-in-out;
-      margin: 0;
-    }
-    .form-group input:focus,
-    .form-group textarea:focus {
-      outline: none;
-      border-color: #10b981;
-      background-color: #ffffff;
-      box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.15);
-    }
-    .form-group textarea {
-      resize: vertical;
-      min-height: 120px;
-    }
-    .btn-submit {
-      background-color: #10b981;
-      color: #041a12 !important;
-      font-weight: 700;
-      padding: 0.75rem 1.5rem;
-      border: none;
-      border-radius: 8px;
-      font-size: 0.95rem;
-      cursor: pointer;
-      transition: background-color 0.2s ease;
-      display: inline-block;
-    }
-    .btn-submit:hover {
-      background-color: #059669;
-    }
-  </style>
+
+  <p class="contact-alt"><a class="btn btn-primary" href="https://www.linkedin.com/in/ricardo-squassina-lee" target="_blank" rel="noopener noreferrer">Conversar no LinkedIn ↗</a> <span class="muted-text">ou envie uma mensagem pelo formulário</span></p>
 
   <div class="contact-card">
     <form action="https://formspree.io/f/mrppdrvp" method="POST">
+      <input type="text" name="_gotcha" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
       <div class="form-group">
         <label for="name">Nome completo</label>
-        <input type="text" id="name" name="name" required placeholder="Seu nome">
+        <input type="text" id="name" name="name" autocomplete="name" required placeholder="Seu nome">
       </div>
       
       <div class="form-group">
         <label for="email">E-mail para resposta</label>
-        <input type="email" id="email" name="_replyto" required placeholder="seu.email@empresa.com">
+        <input type="email" id="email" name="_replyto" autocomplete="email" required placeholder="seu.email@empresa.com">
       </div>
       
       <div class="form-group">
