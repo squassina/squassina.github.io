@@ -2,7 +2,7 @@
 layout: default
 title: Portfolio & Systems Engineering
 lang: en
-description: "Ricardo Lee's portfolio: technology strategy, generative AI, agents and cloud. Open-source projects, Microsoft and IBM career highlights, and advisory contact."
+description: "Ricardo Squassina Lee's portfolio: technology strategy, generative AI, agents and cloud. Open-source projects, Microsoft and IBM career highlights, and advisory contact."
 ---
 
 <div class="hero-section">
