@@ -2,7 +2,7 @@
 layout: default
 title: Portfólio & Engenharia de Sistemas
 lang: pt
-description: "Portfólio de Ricardo Lee: estratégia de tecnologia, IA generativa, agentes e nuvem. Projetos open source, trajetória na Microsoft e IBM e contato para advisory."
+description: "Portfólio de Ricardo Squassina Lee: estratégia de tecnologia, IA generativa, agentes e nuvem. Projetos open source, trajetória na Microsoft e IBM e contato para advisory."
 ---
 
 <div class="hero-section">
