@@ -1,0 +1,97 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+/* Built-in Sass modules you’ll likely use across partials */
+@use "sass:math";
+@use "sass:string";
+
+/* Configure your design tokens BEFORE loading any of your partials.
+   Make sure `_sass/_variables.scss` declares `$max-content-width: 72rem !default;` */
+@use "variables" with (
+  $max-content-width: {{ site.max_width | default:  "930px" }}
+);
+
+/* Your project partials — convert these files to `@use "variables";`
+   (or `@use "variables" as *;`) inside each file and qualify variables if needed. */
+@use "themes";
+@use "layout";
+
+// Core styles organized by usage
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+
+// Other specialized styles
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+
+/*******************************************************************************
+ * Site palette — Emerald / Forest Green
+ * Adapted from the original portfolio identity.
+ ******************************************************************************/
+
+:root {
+  --global-theme-color: #0d5c3a;
+  --global-hover-color: #059669;
+  --global-hover-text-color: #ffffff;
+  --global-bg-color: #f8fafc;
+  --global-text-color: #1e293b;
+  --global-text-color-light: #64748b;
+  --global-divider-color: #dbe7e1;
+  --global-card-bg-color: #ffffff;
+  --global-footer-bg-color: #061c14;
+  --global-footer-text-color: #cbd5e1;
+  --global-footer-link-color: #6ee7b7;
+  --global-highlight-color: #047857;
+  --global-tip-block: #0d5c3a;
+  --global-tip-block-bg: #ecfdf5;
+  --global-tip-block-text: #14532d;
+  --global-tip-block-title: #047857;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #7fcdaa;
+  --global-hover-color: #a6e3cb;
+  --global-hover-text-color: #061c14;
+  --global-bg-color: #121a17;
+  --global-text-color: #d3dbd7;
+  --global-text-color-light: #98a69f;
+  --global-divider-color: #2c3a34;
+  --global-card-bg-color: #1a2420;
+  --global-footer-bg-color: #0b1711;
+  --global-footer-text-color: #c3cdc8;
+  --global-footer-link-color: #7fcdaa;
+  --global-highlight-color: #a6e3cb;
+  --global-tip-block: #7fcdaa;
+  --global-tip-block-bg: #1f3a2f;
+  --global-tip-block-text: #d1fae5;
+  --global-tip-block-title: #a7f3d0;
+}
+
+/* Consistent green accents across navigation and interactive elements. */
+.navbar .nav-link:hover,
+.navbar .nav-item.active > .nav-link {
+  color: var(--global-theme-color);
+}
+
+#progress {
+  accent-color: var(--global-theme-color);
+}
+
+::selection {
+  color: #ffffff;
+  background: #0d5c3a;
+}
+
+html[data-theme="dark"] ::selection {
+  color: #061c14;
+  background: #7fcdaa;
+}
