@@ -24,23 +24,21 @@ description: "Portfólio de Ricardo Squassina Lee: estratégia de tecnologia, IA
 
   <div class="portfolio-grid">
 
-    <!-- Project 1: TechJobScout -->
+    <!-- Project 1: TechJobScout Lite -->
     <div class="project-card">
       <div>
         <div class="project-header">
-          <h3>TechJobScout</h3>
-          <span class="project-type">AI Agent</span>
+          <h3>TechJobScout-lite</h3>
+          <span class="project-type">Career Intelligence</span>
         </div>
-        <p>Agente autônomo de scouting de oportunidades de tecnologia. Realiza scraping de descrições de cargos ATS via Playwright, avalia a aderência técnica com LLMs e dispara notificações Webhook.</p>
+        <p>Aplicação web para profissionais de tecnologia descobrirem oportunidades alinhadas à sua experiência, em diferentes funções e níveis de senioridade. Importa currículo, pesquisa vagas em plataformas ATS, calcula aderência com critérios explicáveis e ajuda a preparar histórias STAR para entrevistas. É executada diretamente no navegador, sem backend ou banco de dados.</p>
         <div class="tech-chips">
-          <span class="chip">Python</span>
-          <span class="chip">Playwright</span>
-          <span class="chip">LiteLLM / Gemini API</span>
-          <span class="chip">GitHub Actions</span>
+          <span class="chip">HTML / CSS / JavaScript</span><span class="chip">ATS APIs</span><span class="chip">Multi-LLM opcional</span><span class="chip">GitHub Pages</span><span class="chip">Privacy by design</span>
         </div>
       </div>
       <div class="project-links">
-        <a href="https://github.com/squassina/TechJobScout" target="_blank" rel="noopener noreferrer" class="btn-sm btn-outline">GitHub ↗</a>
+        <a href="https://squassina.github.io/TechJobScout-lite/" target="_blank" rel="noopener noreferrer" class="btn-sm btn-outline">Demo Online ↗</a>
+        <a href="https://github.com/squassina/TechJobScout-lite" target="_blank" rel="noopener noreferrer" class="btn-sm btn-outline">GitHub ↗</a>
       </div>
     </div>
 

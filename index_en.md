@@ -24,23 +24,21 @@ description: "Ricardo Squassina Lee's portfolio: technology strategy, generative
 
   <div class="portfolio-grid">
 
-    <!-- Project 1: TechJobScout -->
+    <!-- Project 1: TechJobScout Lite -->
     <div class="project-card">
       <div>
         <div class="project-header">
-          <h3>TechJobScout</h3>
-          <span class="project-type">AI Agent</span>
+          <h3>TechJobScout-lite</h3>
+          <span class="project-type">Career Intelligence</span>
         </div>
-        <p>Autonomous job scouting agent. Scrapes ATS job descriptions via Playwright, evaluates technical compatibility using LLMs, and triggers Webhook alerts.</p>
+        <p>A browser-based application that helps technology professionals across roles and seniority levels discover relevant opportunities. Import a resume, search jobs across ATS platforms, evaluate fit with explainable criteria, and prepare STAR interview stories. It runs directly in the browser, with no application backend or database.</p>
         <div class="tech-chips">
-          <span class="chip">Python</span>
-          <span class="chip">Playwright</span>
-          <span class="chip">LiteLLM / Gemini API</span>
-          <span class="chip">GitHub Actions</span>
+          <span class="chip">HTML / CSS / JavaScript</span><span class="chip">ATS APIs</span><span class="chip">Optional multi-LLM</span><span class="chip">GitHub Pages</span><span class="chip">Privacy by design</span>
         </div>
       </div>
       <div class="project-links">
-        <a href="https://github.com/squassina/TechJobScout" target="_blank" rel="noopener noreferrer" class="btn-sm btn-outline">GitHub ↗</a>
+        <a href="https://squassina.github.io/TechJobScout-lite/" target="_blank" rel="noopener noreferrer" class="btn-sm btn-outline">Live Demo ↗</a>
+        <a href="https://github.com/squassina/TechJobScout-lite" target="_blank" rel="noopener noreferrer" class="btn-sm btn-outline">GitHub ↗</a>
       </div>
     </div>
 
