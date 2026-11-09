@@ -34,9 +34,9 @@ description: "Ricardo Squassina Lee — estrategista de tecnologia e IA, systems
     <p><a href="https://github.com/squassina/XadrezMestre">Código-fonte no GitHub ↗</a></p>
   </div>
   <div class="col-sm-6">
-    <h3><a href="https://github.com/squassina/ActiveHR">ActiveHR</a></h3>
-    <p>Projeto de automação e inteligência para descoberta e análise de oportunidades profissionais.</p>
-    <p><a href="https://github.com/squassina/ActiveHR">Código-fonte no GitHub ↗</a></p>
+    <h3><a href="https://github.com/squassina/CV-JD-Match">CV-JD-Match</a></h3>
+    <p>Ferramenta client-side que compara currículo e descrição de vaga com apoio de LLMs, apresenta uma análise estruturada de compatibilidade e pode gerar um currículo e uma carta de apresentação adaptados à oportunidade. Os dados são enviados diretamente do navegador ao provedor de IA escolhido, sem servidor intermediário do projeto.</p>
+    <p><a href="https://github.com/squassina/CV-JD-Match">Código-fonte no GitHub ↗</a></p>
   </div>
 </div>
 
