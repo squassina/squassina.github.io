@@ -95,3 +95,64 @@ html[data-theme="dark"] ::selection {
   color: #061c14;
   background: #7fcdaa;
 }
+
+
+/* Keep the theme switch visible even when the icon font is unavailable. */
+.navbar-menu-list > .toggle-container {
+  display: inline-flex !important;
+  align-items: center;
+  flex: 0 0 auto;
+  margin-left: 0.5rem;
+}
+
+#light-toggle {
+  position: relative;
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  min-width: 2.25rem;
+  min-height: 2.25rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 999px;
+  color: var(--global-theme-color);
+  background: var(--global-card-bg-color);
+  font-size: 1.15rem;
+  line-height: 1;
+}
+
+#light-toggle i {
+  display: none !important;
+}
+
+#light-toggle::before {
+  content: "◐";
+  display: block;
+  font-family: system-ui, sans-serif;
+  font-size: 1.25rem;
+  line-height: 1;
+}
+
+html[data-theme-setting="light"] #light-toggle::before {
+  content: "☀";
+}
+
+html[data-theme-setting="dark"] #light-toggle::before {
+  content: "☾";
+}
+
+#light-toggle:hover {
+  border-color: var(--global-theme-color);
+  color: var(--global-hover-color);
+  background: var(--global-tip-block-bg);
+}
+
+#light-toggle:focus-visible {
+  outline: 2px solid var(--global-theme-color);
+  outline-offset: 3px;
+}
+
+@media (max-width: 575.98px) {
+  .navbar-menu-list > .toggle-container {
+    margin: 0.25rem 0 0;
+  }
+}
