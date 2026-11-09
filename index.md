@@ -24,9 +24,9 @@ description: "Ricardo Squassina Lee — estrategista de tecnologia e IA, systems
     <p><a href="https://github.com/squassina/TechJobScout-lite">Código-fonte no GitHub ↗</a></p>
   </div>
   <div class="col-sm-6">
-    <h3><a href="https://github.com/squassina/AMASDO">AMASDO</a></h3>
-    <p>Plataforma SaaS multiagente para orquestração de workflows com IA, governança, observabilidade e controle de custos.</p>
-    <p><a href="https://github.com/squassina/AMASDO">Código-fonte no GitHub ↗</a></p>
+    <h3><a href="https://github.com/squassina/PromptGen">PromptGen</a></h3>
+    <p>Ferramenta web simples que transforma respostas em linguagem natural em prompts estruturados para escrita, planejamento, pesquisa, análise e programação. Inclui exemplos guiados, indicador de qualidade e edição do prompt gerado; funciona inteiramente no navegador, sem instalação, backend ou chamadas a serviços externos.</p>
+    <p><a href="https://github.com/squassina/PromptGen">Código-fonte no GitHub ↗</a></p>
   </div>
   <div class="col-sm-6">
     <h3><a href="https://squassina.github.io/XadrezMestre/">XadrezMestre</a></h3>
