@@ -1,0 +1,91 @@
+title: Ricardo Squassina Lee
+first_name: Ricardo
+middle_name: Squassina
+last_name: Lee
+description: >-
+  Technology strategist and systems builder focused on enterprise AI, cloud,
+  software architecture, business transformation, FinOps, and governance.
+url: https://squassina.github.io
+baseurl:
+lang: en
+icon: "RL"
+keywords: technology strategy, enterprise AI, cloud architecture, business transformation, systems engineering
+footer_text: >-
+  Built with Jekyll and the al-folio theme. Hosted on GitHub Pages.
+last_updated: false
+back_to_top: true
+navbar_fixed: true
+footer_fixed: false
+search_enabled: false
+max_width: 1100px
+enable_darkmode: true
+enable_navbar_social: true
+enable_masonry: true
+enable_project_categories: true
+enable_math: false
+enable_tooltips: false
+enable_medium_zoom: true
+enable_progressbar: true
+serve_og_meta: true
+serve_schema_org: true
+og_image:
+analytics:
+  google:
+  cronitor:
+  pirsch:
+  openpanel:
+  cloudflare:
+enable_simple_analytics: false
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+  news:
+    output: true
+    permalink: /news/:name/
+include:
+  - _pages
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - node_modules
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    css_class: highlight
+theme: al_folio_core
+al_folio:
+  api_version: 1
+  style_engine: tailwind
+  tailwind:
+    version: 4.1.18
+    preflight: false
+    css_entry: assets/tailwind/app.css
+  features:
+    cv:
+      enabled: false
+    distill:
+      enabled: false
+  compat:
+    bootstrap:
+      enabled: false
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll/scholar
+  - jekyll-socials
+  - al_folio_core
+  - al_icons
+  - al_rtl
+sass:
+  style: compressed
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project

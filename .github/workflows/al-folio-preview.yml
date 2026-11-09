@@ -1,0 +1,35 @@
+name: Build al-folio preview
+
+on:
+  push:
+    branches:
+      - feat/al-folio-theme
+  pull_request:
+    branches:
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+      - name: Install Ruby dependencies
+        run: bundle install
+      - name: Build site
+        run: JEKYLL_ENV=production bundle exec jekyll build
+      - name: Upload preview artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: al-folio-preview
+          path: _site/
+          if-no-files-found: error
+          retention-days: 14
