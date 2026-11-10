@@ -82,7 +82,7 @@ html[data-theme="dark"] {
   color: var(--global-theme-color);
 }
 
-/* Keep the site identity visible and prevent the brand from being squeezed. */
+/* Consistent navbar layout and typography across PT-BR and EN. */
 @media (min-width: 768px) {
   .navbar .navbar-brand {
     display: inline-flex !important;
@@ -99,13 +99,12 @@ html[data-theme="dark"] {
   }
 }
 
-/* The home page title is not a global navigation item. The language-specific
-   Projects page is the only content link shown in the global menu. */
-html[lang="pt-BR"] .navbar .nav-link[href="/en/"],
-html[lang="en"] .navbar .nav-link[href="/"],
-html[lang="pt-BR"] .navbar .nav-link[href="/en/projects/"],
-html[lang="en"] .navbar .nav-link[href="/projects/"] {
-  display: none !important;
+.navbar .navbar-brand,
+.navbar .navbar-nav .nav-link {
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
 }
 
 /* Use the same inherited theme typography for brand and navigation in both languages. */
