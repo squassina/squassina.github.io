@@ -21,20 +21,20 @@ description: "Ricardo Squassina Lee — executivo e estrategista de tecnologia c
     <p>da cota comercial atingida em Serviços Financeiros na Microsoft</p>
   </div>
   <div class="col-sm-6 col-lg-3">
-    <h2>US$ 58M</h2>
-    <p>compromisso estratégico plurianual de cloud com viabilidade arquitetural assegurada</p>
+    <h2>Multi-milionário</h2>
+    <p>compromisso estratégico plurianual de cloud, de grande porte, com viabilidade arquitetural assegurada</p>
   </div>
   <div class="col-sm-6 col-lg-3">
     <h2>1.000+</h2>
     <p>desenvolvedores alcançados por iniciativas de adoção do GitHub Copilot</p>
   </div>
   <div class="col-sm-6 col-lg-3">
-    <h2>US$ 30M+</h2>
-    <p>pipeline comercial enterprise qualificado e governado</p>
+    <h2>Multi-milionário</h2>
+    <p>pipeline comercial enterprise de grande porte, qualificado e governado</p>
   </div>
 </div>
 
-Outros resultados relevantes: conquista de contrato Microsoft 365 E5 de US$ 2,77 milhões; redução de ciclos de reporting executivo de até três semanas para acompanhamento em tempo real; e co-gestão de orçamento regional de US$ 6 milhões na América Latina.
+Outros resultados relevantes: conquista de contrato Microsoft 365 E5 de valor multimilionário; redução de ciclos de reporting executivo de até três semanas para acompanhamento em tempo real; e co-gestão de orçamento regional de multi-milionário na América Latina.
 
 ## Especialidades
 
@@ -54,9 +54,9 @@ Conselheiro tecnológico para contas enterprise estratégicas, conectando priori
 
 **Resultados selecionados**
 - Atingi **245% da cota de vendas** no território de Serviços Financeiros.
-- Assegurei compromisso estratégico plurianual de cloud de **US$ 58 milhões**, com viabilidade arquitetural.
-- Viabilizei conquista comercial de **US$ 2,77 milhões** em Microsoft 365 E5.
-- Governei pipeline consultivo superior a **US$ 30 milhões**.
+- Assegurei compromisso estratégico plurianual de cloud de **valor multimilionário**, com viabilidade arquitetural.
+- Viabilizei conquista comercial de **valor multimilionário** em Microsoft 365 E5.
+- Governei pipeline consultivo superior a **valor multimilionário**.
 - Conduzi iniciativas de capacitação e adoção de GitHub Copilot para mais de **1.000 desenvolvedores**, além de grupos adicionais de engenharia.
 
 ### Microsoft · Senior Software Engineer
@@ -72,7 +72,7 @@ Projetei e co-desenvolvi soluções de software, dados e IA em Azure. Liderei te
 ### Microsoft · Senior Business Programs & Operations Manager
 *Set/2017 – Jun/2018*
 
-Co-gerenciei orçamento operacional regional de **US$ 6 milhões** na América Latina, apoiando uma organização de 25 profissionais. Estruturei governança, indicadores executivos e dashboards integrando Visual Studio Team Services/Azure DevOps e Power BI.
+Co-gerenciei orçamento operacional regional de **multi-milionário** na América Latina, apoiando uma organização de 25 profissionais. Estruturei governança, indicadores executivos e dashboards integrando Visual Studio Team Services/Azure DevOps e Power BI.
 
 **Resultados selecionados**
 - Reduzi o ciclo de consolidação de relatórios executivos de até **três semanas para tempo real**.
