@@ -3,6 +3,7 @@ layout: page
 title: Estratégia de Tecnologia, IA & Transformação
 permalink: /
 lang: pt-BR
+nav: false
 description: "Ricardo Squassina Lee — estrategista de tecnologia e IA, systems builder e executivo de transformação empresarial."
 ---
 

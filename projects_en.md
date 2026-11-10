@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /en/projects/
 lang: en
-nav: true
+nav: false
 nav_order: 2
 description: "Open-source projects in AI, software engineering, web tools, and digital transformation by Ricardo Squassina Lee."
 ---
