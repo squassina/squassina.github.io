@@ -8,7 +8,6 @@ description: "Ricardo Squassina Lee — technology and AI strategist, systems bu
 ---
 
 <div class="clearfix">
-  <p><a href="/" hreflang="pt-BR">← Versão em português</a> · <a href="/en/projects/">All projects →</a></p>
 
   <p class="lead">Systems Builder | Technology Strategy, Generative AI & Cloud | Former Microsoft, IBM Watson</p>
   <p>I connect business strategy, software architecture, and artificial intelligence to turn complex challenges into executable solutions. This site showcases open-source projects, enterprise technology experience, and perspectives on AI, cloud, and transformation.</p>

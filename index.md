@@ -8,7 +8,6 @@ description: "Ricardo Squassina Lee — estrategista de tecnologia e IA, systems
 ---
 
 <div class="clearfix">
-  <p><a href="/en/" hreflang="en">English version →</a> · <a href="/projects/">Todos os projetos →</a></p>
 
   <p class="lead">Systems Builder | Estratégia de Tecnologia, IA Generativa & Nuvem | Ex-Microsoft, Ex-IBM Watson</p>
   <p>Conecto estratégia de negócios, arquitetura de software e inteligência artificial para transformar desafios complexos em soluções executáveis. Neste espaço apresento projetos open source, experiências em tecnologia corporativa e temas sobre IA, cloud e transformação.</p>
