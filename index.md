@@ -20,23 +20,23 @@ description: "Ricardo Squassina Lee — estrategista de tecnologia e IA, systems
 <div class="row">
   <div class="col-sm-6">
     <h3><a href="https://squassina.github.io/TechJobScout-lite/">TechJobScout-lite</a></h3>
-    <p>Ferramenta client-side para profissionais de tecnologia explorarem oportunidades, avaliarem aderência a vagas e prepararem histórias STAR. Sem backend ou banco de dados.</p>
     <p><a href="https://squassina.github.io/TechJobScout-lite/">Abrir aplicação ↗</a> · <a href="https://github.com/squassina/TechJobScout-lite">Código-fonte no GitHub ↗</a></p>
+    <p>Ferramenta client-side para profissionais de tecnologia explorarem oportunidades, avaliarem aderência a vagas e prepararem histórias STAR. Sem backend ou banco de dados.</p>
   </div>
   <div class="col-sm-6">
     <h3><a href="https://squassina.github.io/PromptGen/">PromptGen</a></h3>
-    <p>Ferramenta web simples que transforma respostas em linguagem natural em prompts estruturados para escrita, planejamento, pesquisa, análise e programação. Inclui exemplos guiados, indicador de qualidade e edição do prompt gerado; funciona inteiramente no navegador, sem instalação, backend ou chamadas a serviços externos.</p>
     <p><a href="https://squassina.github.io/PromptGen/">Abrir aplicação ↗</a> · <a href="https://github.com/squassina/PromptGen">Código-fonte no GitHub ↗</a></p>
+    <p>Ferramenta web simples que transforma respostas em linguagem natural em prompts estruturados para escrita, planejamento, pesquisa, análise e programação. Inclui exemplos guiados, indicador de qualidade e edição do prompt gerado; funciona inteiramente no navegador, sem instalação, backend ou chamadas a serviços externos.</p>
   </div>
   <div class="col-sm-6">
     <h3><a href="https://squassina.github.io/XadrezMestre/">XadrezMestre</a></h3>
-    <p>Aplicação web open source para treinamento de xadrez, com React, TypeScript e engine Stockfish.</p>
     <p><a href="https://squassina.github.io/XadrezMestre/">Abrir aplicação ↗</a> · <a href="https://github.com/squassina/XadrezMestre">Código-fonte no GitHub ↗</a></p>
+    <p>Aplicação web open source para treinamento de xadrez, com React, TypeScript e engine Stockfish.</p>
   </div>
   <div class="col-sm-6">
     <h3><a href="https://squassina.github.io/CV-JD-Match/">CV-JD-Match</a></h3>
-    <p>Ferramenta client-side que compara currículo e descrição de vaga com apoio de LLMs, apresenta uma análise estruturada de compatibilidade e pode gerar um currículo e uma carta de apresentação adaptados à oportunidade. Os dados são enviados diretamente do navegador ao provedor de IA escolhido, sem servidor intermediário do projeto.</p>
     <p><a href="https://squassina.github.io/CV-JD-Match/">Abrir aplicação ↗</a> · <a href="https://github.com/squassina/CV-JD-Match">Código-fonte no GitHub ↗</a></p>
+    <p>Ferramenta client-side que compara currículo e descrição de vaga com apoio de LLMs, apresenta uma análise estruturada de compatibilidade e pode gerar um currículo e uma carta de apresentação adaptados à oportunidade. Os dados são enviados diretamente do navegador ao provedor de IA escolhido, sem servidor intermediário do projeto.</p>
   </div>
 </div>
 
