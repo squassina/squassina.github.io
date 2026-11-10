@@ -57,12 +57,16 @@
             {% assign language_label = 'Português' %}
             {% if page.permalink contains '/projects/' %}
               {% assign language_url = '/projects/' %}
+            {% elsif page.permalink contains '/career/' %}
+              {% assign language_url = '/career/' %}
             {% endif %}
           {% else %}
             {% assign language_url = '/en/' %}
             {% assign language_label = 'English' %}
             {% if page.permalink contains '/projects/' %}
               {% assign language_url = '/en/projects/' %}
+            {% elsif page.permalink contains '/career/' %}
+              {% assign language_url = '/en/career/' %}
             {% endif %}
           {% endif %}
           <li class="nav-item language-switch">
