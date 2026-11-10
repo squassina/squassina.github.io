@@ -9,7 +9,7 @@ description: "Ricardo Squassina Lee — executivo e estrategista de tecnologia c
 
 <div class="clearfix">
   <p class="lead">Estratégia de Tecnologia Corporativa | Inteligência Artificial & Cloud | Transformação de Engenharia</p>
-  <p>Ajudo organizações a transformar estratégia em resultados por meio de IA, arquitetura de nuvem, dados e modernização de engenharia. Combino visão executiva, profundidade técnica e experiência comercial consultiva, construída em mais de 20 anos na Microsoft e IBM.</p>
+  <p>Ajudo organizações a transformar estratégia em resultados por meio de IA, arquitetura de nuvem, dados e modernização de engenharia. Combino visão executiva, profundidade técnica e experiência comercial consultiva, construída ao longo de mais de duas décadas de trajetória corporativa, incluindo passagens pela Microsoft e IBM.</p>
   <p><strong>Da estratégia à escala:</strong> desenho roadmaps, alinho decisões com lideranças C-level e mobilizo equipes multidisciplinares para levar soluções complexas da experimentação à adoção corporativa.</p>
 </div>
 
@@ -48,7 +48,7 @@ Outros resultados relevantes: conquista de contrato Microsoft 365 E5 de US$ 2,77
 ## Experiência profissional
 
 ### Microsoft · Account Technology Strategist
-<text>Out/2022 – Jul/2026</text>
+*Out/2022 – Jul/2026*
 
 Conselheiro tecnológico para contas enterprise estratégicas, conectando prioridades de negócio a roadmaps de Azure, Data & AI, Microsoft Fabric, Power BI, Dynamics 365 e Modern Work. Liderei programas de transformação da engenharia e adoção do GitHub Copilot, além de discussões de arquitetura, FinOps e governança com CIOs, CTOs e líderes de engenharia.
 
@@ -60,7 +60,7 @@ Conselheiro tecnológico para contas enterprise estratégicas, conectando priori
 - Conduzi iniciativas de capacitação e adoção de GitHub Copilot para mais de **1.000 desenvolvedores**, além de grupos adicionais de engenharia.
 
 ### Microsoft · Senior Software Engineer
-<text>Jul/2018 – Out/2022</text>
+*Jul/2018 – Out/2022*
 
 Projetei e co-desenvolvi soluções de software, dados e IA em Azure. Liderei tecnicamente iniciativas de modernização de bancos de dados para Azure Cosmos DB, ingestão e análise de logs em tempo real com Azure Data Explorer, detecção de anomalias aplicada à segurança e automação de infraestrutura com Terraform e CI/CD.
 
@@ -70,7 +70,7 @@ Projetei e co-desenvolvi soluções de software, dados e IA em Azure. Liderei te
 - Estruturei pipelines de dados e análise operacional em tempo real para detecção proativa de anomalias.
 
 ### Microsoft · Senior Business Programs & Operations Manager
-<text>Set/2017 – Jun/2018</text>
+*Set/2017 – Jun/2018*
 
 Co-gerenciei orçamento operacional regional de **US$ 6 milhões** na América Latina, apoiando uma organização de 25 profissionais. Estruturei governança, indicadores executivos e dashboards integrando Visual Studio Team Services/Azure DevOps e Power BI.
 
@@ -80,7 +80,7 @@ Co-gerenciei orçamento operacional regional de **US$ 6 milhões** na América L
 - Aumentei a visibilidade de investimentos, indicadores e alocação de recursos regionais.
 
 ### IBM · Services Solutions Manager, Watson Latin America
-<text>Out/2014 – Ago/2017</text>
+*Out/2014 – Ago/2017*
 
 Liderei desenho arquitetural e implantação de soluções pioneiras de computação cognitiva com IBM Watson na América Latina. Traduzi desafios corporativos em arquiteturas de IA, coordenando equipes, recursos e entregas multinacionais no Brasil, México e América do Sul Hispânica, em colaboração com centros globais de engenharia.
 
@@ -90,7 +90,7 @@ Liderei desenho arquitetural e implantação de soluções pioneiras de computa�
 - Integrei equipes globais e regionais para acelerar a transferência de conhecimento e as implantações.
 
 ### IBM · Technical Solution Manager, Application Management Services
-<text>Out/2012 – Set/2014</text>
+*Out/2012 – Set/2014*
 
 Estruturei propostas técnicas e comerciais para serviços complexos de gestão e modernização de aplicações, incluindo arquitetura, precificação, rentabilidade, conformidade, avaliação de riscos e transição para delivery.
 
