@@ -19,23 +19,23 @@ description: "Ricardo Squassina Lee — technology and AI strategist, systems bu
 <div class="row">
   <div class="col-sm-6">
     <h3><a href="https://squassina.github.io/TechJobScout-lite/">TechJobScout-lite</a></h3>
-    <p>A client-side tool that helps technology professionals explore opportunities, assess job fit, and prepare STAR interview stories. No backend or database required.</p>
     <p><a href="https://squassina.github.io/TechJobScout-lite/">Open app ↗</a> · <a href="https://github.com/squassina/TechJobScout-lite">Source code on GitHub ↗</a></p>
+    <p>A client-side tool that helps technology professionals explore opportunities, assess job fit, and prepare STAR interview stories. No backend or database required.</p>
   </div>
   <div class="col-sm-6">
     <h3><a href="https://squassina.github.io/PromptGen/">PromptGen</a></h3>
-    <p>A simple web tool that turns plain-language answers into structured prompts for writing, planning, research, analysis, and coding. It includes guided examples, a prompt quality meter, and an editable output. Everything runs locally in the browser, with no installation, backend, or external service calls.</p>
     <p><a href="https://squassina.github.io/PromptGen/">Open app ↗</a> · <a href="https://github.com/squassina/PromptGen">Source code on GitHub ↗</a></p>
+    <p>A simple web tool that turns plain-language answers into structured prompts for writing, planning, research, analysis, and coding. It includes guided examples, a prompt quality meter, and an editable output. Everything runs locally in the browser, with no installation, backend, or external service calls.</p>
   </div>
   <div class="col-sm-6">
     <h3><a href="https://squassina.github.io/XadrezMestre/">XadrezMestre</a></h3>
-    <p>An open-source chess training web application built with React, TypeScript, and the Stockfish engine.</p>
     <p><a href="https://squassina.github.io/XadrezMestre/">Open app ↗</a> · <a href="https://github.com/squassina/XadrezMestre">Source code on GitHub ↗</a></p>
+    <p>An open-source chess training web application built with React, TypeScript, and the Stockfish engine.</p>
   </div>
   <div class="col-sm-6">
     <h3><a href="https://squassina.github.io/CV-JD-Match/">CV-JD-Match</a></h3>
-    <p>A client-side tool that compares a resume with a job description using LLMs, provides a structured match analysis, and can generate a tailored resume and cover letter. Content is sent directly from the browser to the selected AI provider, with no intermediary project server.</p>
     <p><a href="https://squassina.github.io/CV-JD-Match/">Open app ↗</a> · <a href="https://github.com/squassina/CV-JD-Match">Source code on GitHub ↗</a></p>
+    <p>A client-side tool that compares a resume with a job description using LLMs, provides a structured match analysis, and can generate a tailored resume and cover letter. Content is sent directly from the browser to the selected AI provider, with no intermediary project server.</p>
   </div>
 </div>
 
