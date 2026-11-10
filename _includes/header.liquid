@@ -45,6 +45,22 @@
               </button>
             </li>
           {% endif %}
+          {% if page.lang == 'en' %}
+            {% assign language_url = '/' %}
+            {% assign language_label = 'Português' %}
+            {% if page.permalink contains '/projects/' %}
+              {% assign language_url = '/projects/' %}
+            {% endif %}
+          {% else %}
+            {% assign language_url = '/en/' %}
+            {% assign language_label = 'English' %}
+            {% if page.permalink contains '/projects/' %}
+              {% assign language_url = '/en/projects/' %}
+            {% endif %}
+          {% endif %}
+          <li class="nav-item language-switch">
+            <a class="nav-link" href="{{ language_url | relative_url }}" hreflang="{% if page.lang == 'en' %}pt-BR{% else %}en{% endif %}">{{ language_label }}</a>
+          </li>
           {% if site.enable_darkmode %}
             <li class="toggle-container">
               <button id="light-toggle" type="button" title="Change theme" aria-label="Change color theme">
