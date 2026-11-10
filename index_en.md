@@ -21,16 +21,16 @@ description: "Ricardo Squassina Lee — enterprise technology executive and stra
     <p>of sales quota achieved in Microsoft's Financial Services territory</p>
   </div>
   <div class="col-sm-6 col-lg-3">
-    <h2>Multi-million</h2>
-    <p>large multi-year cloud commitment secured with architectural feasibility</p>
+    <h2>US$50M+</h2>
+    <p>in multi-year cloud commitments backed by architectural feasibility</p>
   </div>
   <div class="col-sm-6 col-lg-3">
     <h2>1,000+</h2>
     <p>developers reached through GitHub Copilot adoption initiatives</p>
   </div>
   <div class="col-sm-6 col-lg-3">
-    <h2>Multi-million</h2>
-    <p>large, qualified, and governed enterprise opportunity pipeline</p>
+    <h2>US$30M+</h2>
+    <p>qualified and governed enterprise opportunity pipeline</p>
   </div>
 </div>
 
