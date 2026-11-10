@@ -21,20 +21,20 @@ description: "Ricardo Squassina Lee — enterprise technology executive and stra
     <p>of sales quota achieved in Microsoft's Financial Services territory</p>
   </div>
   <div class="col-sm-6 col-lg-3">
-    <h2>US$58M</h2>
-    <p>multi-year cloud commitment secured with architectural feasibility</p>
+    <h2>Multi-million</h2>
+    <p>large multi-year cloud commitment secured with architectural feasibility</p>
   </div>
   <div class="col-sm-6 col-lg-3">
     <h2>1,000+</h2>
     <p>developers reached through GitHub Copilot adoption initiatives</p>
   </div>
   <div class="col-sm-6 col-lg-3">
-    <h2>US$30M+</h2>
-    <p>qualified and governed enterprise opportunity pipeline</p>
+    <h2>Multi-million</h2>
+    <p>large, qualified, and governed enterprise opportunity pipeline</p>
   </div>
 </div>
 
-Additional outcomes include a **US$2.77M Microsoft 365 E5 deal**, reducing executive reporting cycles from up to three weeks to real-time visibility, and co-managing a **US$6M regional budget** across Latin America.
+Additional outcomes include a **multi-million-dollar Microsoft 365 E5 deal**, reducing executive reporting cycles from up to three weeks to real-time visibility, and co-managing a **multi-million-dollar regional budget** across Latin America.
 
 ## Areas of expertise
 
@@ -54,9 +54,9 @@ Technology advisor to strategic enterprise accounts, connecting business priorit
 
 **Selected results**
 - Achieved **245% of sales quota** in the Financial Services territory.
-- Secured a **US$58M multi-year cloud commitment**, backed by architectural feasibility.
-- Enabled a **US$2.77M Microsoft 365 E5** strategic win.
-- Governed a consultative enterprise pipeline exceeding **US$30M**.
+- Secured a **Multi-million multi-year cloud commitment**, backed by architectural feasibility.
+- Enabled a **multi-million-dollar Microsoft 365 E5** strategic win.
+- Governed a consultative enterprise pipeline exceeding **multi-million-dollar**.
 - Led GitHub Copilot adoption and hands-on enablement initiatives reaching more than **1,000 developers**, plus additional engineering groups.
 
 ### Microsoft · Senior Software Engineer
