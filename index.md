@@ -21,16 +21,16 @@ description: "Ricardo Squassina Lee — executivo e estrategista de tecnologia c
     <p>da cota comercial atingida em Serviços Financeiros na Microsoft</p>
   </div>
   <div class="col-sm-6 col-lg-3">
-    <h2>Multi-milionário</h2>
-    <p>compromisso estratégico plurianual de cloud, de grande porte, com viabilidade arquitetural assegurada</p>
+    <h2>US$ 50M+</h2>
+    <p>em compromissos estratégicos plurianuais de cloud, com viabilidade arquitetural assegurada</p>
   </div>
   <div class="col-sm-6 col-lg-3">
     <h2>1.000+</h2>
     <p>desenvolvedores alcançados por iniciativas de adoção do GitHub Copilot</p>
   </div>
   <div class="col-sm-6 col-lg-3">
-    <h2>Multi-milionário</h2>
-    <p>pipeline comercial enterprise de grande porte, qualificado e governado</p>
+    <h2>US$ 30M+</h2>
+    <p>pipeline comercial enterprise qualificado e governado</p>
   </div>
 </div>
 
