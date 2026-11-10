@@ -34,7 +34,7 @@ description: "Ricardo Squassina Lee — executivo e estrategista de tecnologia c
   </div>
 </div>
 
-Outros resultados relevantes: conquista de contrato Microsoft 365 E5 de valor multimilionário; redução de ciclos de reporting executivo de até três semanas para acompanhamento em tempo real; e co-gestão de orçamento regional de multi-milionário na América Latina.
+Outros resultados relevantes: conquista de contrato Microsoft 365 E5 de valor multimilionário; redução de ciclos de reporting executivo de até três semanas para acompanhamento em tempo real; e co-gestão de orçamento regional multimilionário na América Latina.
 
 ## Especialidades
 
