@@ -4,97 +4,57 @@ title: Estratégia de Tecnologia, IA & Transformação
 permalink: /
 lang: pt-BR
 nav: false
-description: "Ricardo Squassina Lee — executivo e estrategista de tecnologia corporativa, IA, cloud e transformação de engenharia. Mais de duas décadas de experiência em Microsoft e IBM."
+description: "Ricardo Squassina Lee — executivo e estrategista de tecnologia corporativa, IA, cloud e transformação de engenharia."
 ---
 
-<div class="clearfix">
-  <p class="lead">Estratégia de Tecnologia Corporativa · Inteligência Artificial · Cloud · Transformação de Engenharia</p>
-  <p>Conecto estratégia empresarial, arquitetura de tecnologia e execução para transformar a forma como organizações adotam IA, modernizam plataformas e desenvolvem software. Trago mais de duas décadas de experiência combinando profundidade técnica, visão de negócio e liderança consultiva em ambientes enterprise.</p>
-  <p>Minha atuação transita entre conversas C-level, desenho de roadmaps, arquitetura de soluções e mobilização de equipes multidisciplinares — da definição da estratégia à adoção em escala.</p>
-  <p><a class="btn btn-outline-primary btn-lg" href="/career/">Conheça minha trajetória</a> <a class="btn btn-primary btn-lg" href="https://www.linkedin.com/in/ricardo-squassina-lee">Conecte-se no LinkedIn</a></p>
-</div>
-
-## Impacto em escala enterprise
-
-<div class="row">
-  <div class="col-sm-6 col-lg-3">
-    <h2>245%</h2>
-    <p><strong>Atingimento de meta</strong><br>da cota comercial em Serviços Financeiros na Microsoft.</p>
-  </div>
-  <div class="col-sm-6 col-lg-3">
-    <h2>US$ 50M+</h2>
-    <p><strong>Compromissos de cloud</strong><br>em iniciativas estratégicas plurianuais com viabilidade arquitetural.</p>
-  </div>
-  <div class="col-sm-6 col-lg-3">
-    <h2>1.000+</h2>
-    <p><strong>Desenvolvedores habilitados</strong><br>em iniciativas de adoção e capacitação com GitHub Copilot.</p>
-  </div>
-  <div class="col-sm-6 col-lg-3">
-    <h2>US$ 30M+</h2>
-    <p><strong>Pipeline enterprise</strong><br>em oportunidades qualificadas e governadas.</p>
+<div class="exec-hero">
+  <p class="exec-eyebrow">TECHNOLOGY STRATEGY · AI · CLOUD · ENGINEERING TRANSFORMATION</p>
+  <h1>Ricardo Squassina Lee</h1>
+  <p class="exec-lead">Transformo estratégia de tecnologia em resultados de negócio.</p>
+  <p>Mais de duas décadas conectando liderança executiva, arquitetura e execução em ambientes enterprise — com experiência em Microsoft e IBM.</p>
+  <div class="exec-actions">
+    <a class="btn btn-primary" href="/career/">Experiência profissional</a>
+    <a class="btn btn-outline-primary" href="https://www.linkedin.com/in/ricardo-squassina-lee">LinkedIn</a>
   </div>
 </div>
 
-## Onde gero valor
+<div class="exec-metrics">
+  <div class="exec-metric"><strong>245%</strong><span>Atingimento de meta comercial</span></div>
+  <div class="exec-metric"><strong>US$ 50M+</strong><span>Compromissos estratégicos de cloud</span></div>
+  <div class="exec-metric"><strong>1.000+</strong><span>Desenvolvedores habilitados</span></div>
+  <div class="exec-metric"><strong>US$ 30M+</strong><span>Pipeline enterprise</span></div>
+</div>
 
-<div class="row">
-  <div class="col-md-4">
-    <h3>Estratégia de IA & negócio</h3>
-    <p>Transformo prioridades empresariais em estratégias de IA, roadmaps de adoção, modelos operacionais e práticas de governança orientadas à geração de valor.</p>
-  </div>
-  <div class="col-md-4">
-    <h3>Cloud & arquitetura</h3>
-    <p>Conecto arquitetura de soluções, modernização de plataformas, dados, segurança e FinOps para construir ambientes tecnológicos escaláveis e sustentáveis.</p>
-  </div>
-  <div class="col-md-4">
-    <h3>Engenharia & liderança</h3>
-    <p>Ajudo organizações a evoluir práticas de desenvolvimento, produtividade de engenharia e adoção de ferramentas de IA, alinhando tecnologia, pessoas e resultados.</p>
+<div class="exec-section">
+  <p class="exec-eyebrow">COMO POSSO CONTRIBUIR</p>
+  <div class="exec-pillars">
+    <div><h3>Estratégia & IA</h3><p>Roadmaps de IA, adoção empresarial, operating models e governança orientada a valor.</p></div>
+    <div><h3>Cloud & arquitetura</h3><p>Modernização de plataformas, dados, arquitetura de soluções, segurança e FinOps.</p></div>
+    <div><h3>Engenharia & liderança</h3><p>Produtividade de engenharia, desenvolvimento aumentado por IA e transformação organizacional.</p></div>
   </div>
 </div>
 
-## Experiência em destaque
+<div class="exec-section exec-experience">
+  <p class="exec-eyebrow">TRAJETÓRIA</p>
+  <div class="exec-company"><strong>MICROSOFT</strong><span>Estratégia de tecnologia · Engenharia de software · Operações</span></div>
+  <div class="exec-company"><strong>IBM</strong><span>IBM Watson · Soluções enterprise · Arquitetura de serviços</span></div>
+  <p><a href="/career/">Ver experiência, resultados e tecnologias →</a></p>
+</div>
 
-**Microsoft** — Estratégia de tecnologia, arquitetura cloud, Data & AI, transformação de engenharia e aconselhamento a contas enterprise.
-
-**IBM** — Soluções cognitivas com Watson, arquitetura de serviços e desenvolvimento de propostas complexas para clientes corporativos na América Latina.
-
-Minha trajetória inclui posições em estratégia tecnológica, engenharia de software, operações e soluções. Conheça o escopo e os resultados de cada etapa na página de [experiência profissional](/career/).
-
-## Projetos selecionados
-
-<div class="row">
-  <div class="col-sm-6">
-    <h3><a href="https://squassina.github.io/TechJobScout-lite/">TechJobScout-lite</a></h3>
-    <p>Ferramenta para profissionais de tecnologia explorarem oportunidades, avaliarem aderência a vagas e prepararem histórias STAR.</p>
-    <p><a href="https://squassina.github.io/TechJobScout-lite/">Abrir aplicação ↗</a> · <a href="https://github.com/squassina/TechJobScout-lite">GitHub ↗</a></p>
+<div class="exec-section">
+  <div class="exec-section-heading">
+    <div><p class="exec-eyebrow">CONSTRUÇÃO & PRÁTICA</p><h2>Projetos selecionados</h2></div>
+    <a href="/projects/">Todos os projetos →</a>
   </div>
-  <div class="col-sm-6">
-    <h3><a href="https://squassina.github.io/PromptGen/">PromptGen</a></h3>
-    <p>Ferramenta web para transformar necessidades em linguagem natural em prompts estruturados para diferentes tarefas.</p>
-    <p><a href="https://squassina.github.io/PromptGen/">Abrir aplicação ↗</a> · <a href="https://github.com/squassina/PromptGen">GitHub ↗</a></p>
-  </div>
-  <div class="col-sm-6">
-    <h3><a href="https://squassina.github.io/XadrezMestre/">XadrezMestre</a></h3>
-    <p>Aplicação open source de treinamento de xadrez construída com React, TypeScript e Stockfish.</p>
-    <p><a href="https://squassina.github.io/XadrezMestre/">Abrir aplicação ↗</a> · <a href="https://github.com/squassina/XadrezMestre">GitHub ↗</a></p>
-  </div>
-  <div class="col-sm-6">
-    <h3><a href="https://squassina.github.io/CV-JD-Match/">CV-JD-Match</a></h3>
-    <p>Ferramenta client-side que compara currículo e descrição de vaga com apoio de LLMs.</p>
-    <p><a href="https://squassina.github.io/CV-JD-Match/">Abrir aplicação ↗</a> · <a href="https://github.com/squassina/CV-JD-Match">GitHub ↗</a></p>
+  <div class="exec-projects">
+    <a href="https://squassina.github.io/TechJobScout-lite/"><strong>TechJobScout-lite</strong><span>Exploração de oportunidades e preparação para entrevistas.</span></a>
+    <a href="https://squassina.github.io/PromptGen/"><strong>PromptGen</strong><span>Criação de prompts estruturados a partir de necessidades em linguagem natural.</span></a>
+    <a href="https://squassina.github.io/XadrezMestre/"><strong>XadrezMestre</strong><span>Aplicação open source de xadrez com React, TypeScript e Stockfish.</span></a>
+    <a href="https://squassina.github.io/CV-JD-Match/"><strong>CV-JD-Match</strong><span>Análise de compatibilidade entre currículo e descrição de vaga com LLMs.</span></a>
   </div>
 </div>
 
-[Explore todos os projetos](/projects/).
-
-## Formação & credenciais
-
-MBA em Big Data e Analytics (FGV) · Pós-graduação em Análise e Projeto de Sistemas de Informação (FATEC-SP) · Tecnólogo em Processamento de Dados (FATEC-SP).
-
-Certificações selecionadas em GitHub, Microsoft Azure AI, Data Engineering, Data Science, Azure Cosmos DB, Scrum e ITIL.
-
-## Vamos conversar
-
-Aberto a conversas sobre estratégia de IA, transformação empresarial, arquitetura de tecnologia, liderança de engenharia, oportunidades executivas e advisory.
-
-[LinkedIn](https://www.linkedin.com/in/ricardo-squassina-lee) · [Email](mailto:ricardoslee@gmail.com) · [GitHub](https://github.com/squassina)
+<div class="exec-footer-cta">
+  <div><p class="exec-eyebrow">FORMAÇÃO</p><strong>MBA em Big Data & Analytics · FGV</strong><span>FATEC-SP · Certificações Microsoft, GitHub, Scrum e ITIL</span></div>
+  <div><p class="exec-eyebrow">VAMOS CONVERSAR</p><a href="mailto:ricardoslee@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/ricardo-squassina-lee">LinkedIn</a> · <a href="https://github.com/squassina">GitHub</a></div>
+</div>
