@@ -82,11 +82,10 @@ html[data-theme="dark"] {
   color: var(--global-theme-color);
 }
 
-/* Show only the localized Projects navigation item for the current page. */
+/* Hide only the opposite-language link; use exact paths to avoid
+   accidentally matching /en/projects/ as a generic /projects/ suffix. */
 html[lang="pt-BR"] .navbar a[href="/en/projects/"],
-html[lang="pt-BR"] .navbar a[href$="/en/projects/"],
-html[lang="en"] .navbar a[href="/projects/"],
-html[lang="en"] .navbar a[href$="/projects/"] {
+html[lang="en"] .navbar a[href="/projects/"] {
   display: none !important;
 }
 
