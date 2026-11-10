@@ -8,8 +8,6 @@ nav_order: 2
 description: "Open-source projects in AI, software engineering, web tools, and digital transformation by Ricardo Squassina Lee."
 ---
 
-<p><a href="/projects/" hreflang="pt-BR">Versão em português →</a></p>
-
 A selection of original projects, practical tools, and technical contributions. Projects are grouped by theme; each entry links to its source code and, when available, its live application.
 
 ## AI and intelligent systems
