@@ -8,8 +8,6 @@ nav_order: 2
 description: "Projetos open source de IA, engenharia de software, ferramentas web e transformação digital de Ricardo Squassina Lee."
 ---
 
-<p><a href="/en/projects/" hreflang="en">English version →</a></p>
-
 Uma seleção de projetos autorais, ferramentas práticas e contribuições técnicas. Os projetos estão agrupados por tema; cada item direciona ao código-fonte e, quando disponível, à aplicação publicada.
 
 ## IA e sistemas inteligentes
