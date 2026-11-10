@@ -82,6 +82,23 @@ html[data-theme="dark"] {
   color: var(--global-theme-color);
 }
 
+/* Keep the site identity visible beside the navigation on desktop. */
+@media (min-width: 768px) {
+  .navbar .navbar-brand {
+    display: inline-flex !important;
+    flex: 0 0 auto;
+    align-items: center;
+    visibility: visible !important;
+    opacity: 1 !important;
+    white-space: nowrap;
+    margin-right: 1.25rem;
+  }
+
+  .navbar .navbar-collapse {
+    min-width: 0;
+  }
+}
+
 /* Hide only the opposite-language link; use exact paths to avoid
    accidentally matching /en/projects/ as a generic /projects/ suffix. */
 html[lang="pt-BR"] .navbar a[href="/en/projects/"],
