@@ -9,7 +9,7 @@ description: "Ricardo Squassina Lee — enterprise technology executive and stra
 
 <div class="clearfix">
   <p class="lead">Enterprise Technology Strategy | Artificial Intelligence & Cloud | Engineering Transformation</p>
-  <p>I help organizations turn strategy into outcomes through AI, cloud architecture, data, and engineering modernization. I combine executive perspective, technical depth, and consultative commercial experience built over more than 20 years at Microsoft and IBM.</p>
+  <p>I help organizations turn strategy into outcomes through AI, cloud architecture, data, and engineering modernization. I combine executive perspective, technical depth, and consultative commercial experience built over more than two decades of corporate experience, including roles at Microsoft and IBM.</p>
   <p><strong>From strategy to scale:</strong> I shape technology roadmaps, align decisions with C-level leaders, and mobilize cross-functional teams to move complex solutions from experimentation to enterprise adoption.</p>
 </div>
 
@@ -48,7 +48,7 @@ Additional outcomes include a **US$2.77M Microsoft 365 E5 deal**, reducing execu
 ## Professional experience
 
 ### Microsoft · Account Technology Strategist
-<text>Oct 2022 – Jul 2026</text>
+*Oct 2022 – Jul 2026*
 
 Technology advisor to strategic enterprise accounts, connecting business priorities to roadmaps across Azure, Data & AI, Microsoft Fabric, Power BI, Dynamics 365, and Modern Work. Led engineering transformation and GitHub Copilot adoption programs, as well as architecture, FinOps, and governance discussions with CIOs, CTOs, and engineering leaders.
 
@@ -60,7 +60,7 @@ Technology advisor to strategic enterprise accounts, connecting business priorit
 - Led GitHub Copilot adoption and hands-on enablement initiatives reaching more than **1,000 developers**, plus additional engineering groups.
 
 ### Microsoft · Senior Software Engineer
-<text>Jul 2018 – Oct 2022</text>
+*Jul 2018 – Oct 2022*
 
 Designed and co-developed software, data, and AI solutions on Azure. Led technical initiatives to modernize databases with Azure Cosmos DB, build real-time log ingestion and analytics with Azure Data Explorer, apply anomaly detection to cybersecurity, and automate infrastructure using Terraform and CI/CD.
 
@@ -70,7 +70,7 @@ Designed and co-developed software, data, and AI solutions on Azure. Led technic
 - Built data pipelines and real-time operational analytics for proactive anomaly detection.
 
 ### Microsoft · Senior Business Programs & Operations Manager
-<text>Sep 2017 – Jun 2018</text>
+*Sep 2017 – Jun 2018*
 
 Co-managed a **US$6M regional operating budget** across Latin America, supporting a 25-person organization. Established operational governance, executive performance indicators, and dashboards integrating Visual Studio Team Services/Azure DevOps with Power BI.
 
@@ -80,7 +80,7 @@ Co-managed a **US$6M regional operating budget** across Latin America, supportin
 - Improved visibility into regional investments, performance indicators, and resource allocation.
 
 ### IBM · Services Solutions Manager, Watson Latin America
-<text>Oct 2014 – Aug 2017</text>
+*Oct 2014 – Aug 2017*
 
 Led architecture and implementation of pioneering IBM Watson cognitive computing solutions across Latin America. Translated enterprise challenges into AI architectures and coordinated technical and financial resources across Brazil, Mexico, and Spanish-speaking South America, collaborating with IBM engineering centers worldwide.
 
@@ -90,7 +90,7 @@ Led architecture and implementation of pioneering IBM Watson cognitive computing
 - Connected global and regional teams to accelerate knowledge transfer and deployments.
 
 ### IBM · Technical Solution Manager, Application Management Services
-<text>Oct 2012 – Sep 2014</text>
+*Oct 2012 – Sep 2014*
 
 Developed end-to-end technical and commercial proposals for complex application management and modernization services, covering architecture, pricing, profitability, compliance, risk assessment, and delivery transition.
 
