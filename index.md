@@ -69,11 +69,7 @@ description: "Ricardo Squassina Lee — executivo e estrategista de tecnologia c
       <input type="email" name="email" placeholder="Seu e-mail" required>
     </div>
     <textarea name="message" rows="4" placeholder="Sua mensagem..." required></textarea>
-    <div class="exec-contact-actions" style="display: flex; gap: 0.75rem; align-items: center; flex-wrap: wrap;">
-    <button type="submit" class="btn btn-primary">Enviar mensagem</button>
-    <a href="https://www.linkedin.com/in/ricardo-squassina-lee" class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-    <a href="https://github.com/squassina" class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer">GitHub</a>
-  </div>
+    <button type="submit" class="btn btn-primary" style="justify-self: start;">Enviar mensagem</button>
     <div id="contact-status" class="exec-contact-status" style="display:none;"></div>
   </form>
 </div>
