@@ -79,8 +79,8 @@ description: "Ricardo Squassina Lee — enterprise technology executive and stra
   const form = document.getElementById('contact-form');
   const status = document.getElementById('contact-status');
   if (!form) return;
-  // shortcut: replace WORKER_ENDPOINT_URL with your Cloudflare Worker endpoint
-  const WORKER_URL = 'WORKER_ENDPOINT_URL';
+  // shortcut: injected via _config.yml / GitHub Actions variable, or mailto fallback
+  const WORKER_URL = '{{ site.worker_endpoint_url }}';
 
   form.addEventListener('submit', async function(e) {
     e.preventDefault();
@@ -88,7 +88,7 @@ description: "Ricardo Squassina Lee — enterprise technology executive and stra
     const formData = new FormData(form);
     const data = Object.fromEntries(formData.entries());
 
-    if (WORKER_URL === 'WORKER_ENDPOINT_URL') {
+    if (!WORKER_URL || WORKER_URL.trim() === '') {
       window.location.href = 'mailto:ricardoslee@gmail.com?subject=Contact via squassina.github.io&body=' + encodeURIComponent('Name: ' + data.name + '\nEmail: ' + data.email + '\n\n' + data.message);
       return;
     }

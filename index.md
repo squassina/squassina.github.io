@@ -79,8 +79,8 @@ description: "Ricardo Squassina Lee — executivo e estrategista de tecnologia c
   const form = document.getElementById('contact-form');
   const status = document.getElementById('contact-status');
   if (!form) return;
-  // shortcut: substituir WORKER_ENDPOINT_URL pela URL do seu Cloudflare Worker
-  const WORKER_URL = 'WORKER_ENDPOINT_URL';
+  // shortcut: substitui via _config.yml / GitHub Actions variable, ou fallback mailto
+  const WORKER_URL = '{{ site.worker_endpoint_url }}';
 
   form.addEventListener('submit', async function(e) {
     e.preventDefault();
@@ -88,7 +88,7 @@ description: "Ricardo Squassina Lee — executivo e estrategista de tecnologia c
     const formData = new FormData(form);
     const data = Object.fromEntries(formData.entries());
 
-    if (WORKER_URL === 'WORKER_ENDPOINT_URL') {
+    if (!WORKER_URL || WORKER_URL.trim() === '') {
       window.location.href = 'mailto:ricardoslee@gmail.com?subject=Contato via squassina.github.io&body=' + encodeURIComponent('Nome: ' + data.name + '\nEmail: ' + data.email + '\n\n' + data.message);
       return;
     }

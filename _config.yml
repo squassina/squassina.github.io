@@ -43,6 +43,8 @@ collections:
   news:
     output: true
     permalink: /news/:name/
+worker_endpoint_url:
+
 include:
   - _pages
 exclude:
