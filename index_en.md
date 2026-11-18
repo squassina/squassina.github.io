@@ -14,7 +14,7 @@ description: "Ricardo Squassina Lee — enterprise technology executive and stra
   <p>More than two decades connecting executive leadership, architecture, and execution in enterprise environments — with experience at Microsoft and IBM.</p>
   <div class="exec-actions">
     <a class="btn btn-primary" href="/en/career/">Professional experience</a>
-    <a class="btn btn-outline-primary" href="https://www.linkedin.com/in/ricardo-squassina-lee">LinkedIn</a>
+    <a class="btn btn-outline-primary" href="#contact">Get in touch</a>
   </div>
 </div>
 
@@ -69,7 +69,11 @@ description: "Ricardo Squassina Lee — enterprise technology executive and stra
       <input type="email" name="email" placeholder="Your email" required>
     </div>
     <textarea name="message" rows="4" placeholder="Your message..." required></textarea>
-    <button type="submit" class="btn btn-primary" style="justify-self: start;">Send message</button>
+    <div class="exec-contact-actions" style="display: flex; gap: 0.75rem; align-items: center; flex-wrap: wrap;">
+    <button type="submit" class="btn btn-primary">Send message</button>
+    <a href="https://www.linkedin.com/in/ricardo-squassina-lee" class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+    <a href="https://github.com/squassina" class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer">GitHub</a>
+  </div>
     <div id="contact-status" class="exec-contact-status" style="display:none;"></div>
   </form>
 </div>
@@ -122,6 +126,31 @@ description: "Ricardo Squassina Lee — enterprise technology executive and stra
 </script>
 
 <div class="exec-footer-cta">
-  <div><p class="exec-eyebrow">EDUCATION</p><strong>MBA in Big Data & Analytics · FGV</strong><span>FATEC-SP · Microsoft, GitHub, Scrum, and ITIL certifications</span></div>
-  <div><p class="exec-eyebrow">LET'S CONNECT</p><a href="mailto:ricardoslee@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/ricardo-squassina-lee">LinkedIn</a> · <a href="https://github.com/squassina">GitHub</a></div>
+  <div>
+    <p class="exec-eyebrow">EDUCATION</p>
+    <ul class="exec-credentials-list">
+      <li><strong>MBA in Big Data & Analytics</strong> — FGV</li>
+      <li><strong>Postgraduate in Information Systems Analysis & Design</strong> — FATEC-SP</li>
+      <li><strong>Technologist in Data Processing</strong> — FATEC-SP</li>
+    </ul>
+  </div>
+  <div>
+    <p class="exec-eyebrow">CERTIFICATIONS</p>
+    <ul class="exec-credentials-list">
+      <li>GitHub Copilot · GitHub Foundations</li>
+      <li>Azure AI Engineer · Data Engineer · Data Scientist Associate</li>
+      <li>Azure Cosmos DB Developer Specialty</li>
+      <li>Security, Compliance and Identity Fundamentals</li>
+      <li>Advanced Certified Scrum Product Owner (CSPO) · ITIL v3 Foundation</li>
+      <li>IBM Selling Profession</li>
+    </ul>
+  </div>
+</div>
+
+<div class="exec-footer-links">
+  <span style="color: var(--global-text-color-light);">Ricardo Squassina Lee</span>
+  <div>
+    <a href="https://www.linkedin.com/in/ricardo-squassina-lee" target="_blank" rel="noopener noreferrer">LinkedIn</a> · 
+    <a href="https://github.com/squassina" target="_blank" rel="noopener noreferrer">GitHub</a>
+  </div>
 </div>
