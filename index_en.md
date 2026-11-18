@@ -54,6 +54,73 @@ description: "Ricardo Squassina Lee — enterprise technology executive and stra
   </div>
 </div>
 
+<div class="exec-section" id="contact">
+  <div class="exec-section-heading">
+    <div>
+      <p class="exec-eyebrow">DIRECT CONTACT</p>
+      <h2>Let's talk?</h2>
+    </div>
+  </div>
+  <p>For strategic technology advisory, enterprise AI initiatives, or technical leadership:</p>
+  <form id="contact-form" class="exec-contact-form">
+    <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
+    <div class="form-row">
+      <input type="text" name="name" placeholder="Your name" required>
+      <input type="email" name="email" placeholder="Your email" required>
+    </div>
+    <textarea name="message" rows="4" placeholder="Your message..." required></textarea>
+    <button type="submit" class="btn btn-primary" style="justify-self: start;">Send message</button>
+    <div id="contact-status" class="exec-contact-status" style="display:none;"></div>
+  </form>
+</div>
+
+<script>
+(function() {
+  const form = document.getElementById('contact-form');
+  const status = document.getElementById('contact-status');
+  if (!form) return;
+  // shortcut: replace WORKER_ENDPOINT_URL with your Cloudflare Worker endpoint
+  const WORKER_URL = 'WORKER_ENDPOINT_URL';
+
+  form.addEventListener('submit', async function(e) {
+    e.preventDefault();
+    const btn = form.querySelector('button[type="submit"]');
+    const formData = new FormData(form);
+    const data = Object.fromEntries(formData.entries());
+
+    if (WORKER_URL === 'WORKER_ENDPOINT_URL') {
+      window.location.href = 'mailto:ricardoslee@gmail.com?subject=Contact via squassina.github.io&body=' + encodeURIComponent('Name: ' + data.name + '\nEmail: ' + data.email + '\n\n' + data.message);
+      return;
+    }
+
+    btn.disabled = true;
+    status.style.display = 'block';
+    status.className = 'exec-contact-status';
+    status.textContent = 'Sending...';
+
+    try {
+      const res = await fetch(WORKER_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data)
+      });
+      if (res.ok) {
+        status.className = 'exec-contact-status success';
+        status.textContent = 'Message sent successfully!';
+        form.reset();
+      } else {
+        throw new Error();
+      }
+    } catch (err) {
+      status.className = 'exec-contact-status error';
+      status.textContent = 'Failed to send. Please reach out via email: ricardoslee@gmail.com';
+    } finally {
+      btn.disabled = false;
+    }
+  });
+})();
+</script>
+
 <div class="exec-footer-cta">
   <div><p class="exec-eyebrow">EDUCATION</p><strong>MBA in Big Data & Analytics · FGV</strong><span>FATEC-SP · Microsoft, GitHub, Scrum, and ITIL certifications</span></div>
   <div><p class="exec-eyebrow">LET'S CONNECT</p><a href="mailto:ricardoslee@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/ricardo-squassina-lee">LinkedIn</a> · <a href="https://github.com/squassina">GitHub</a></div>

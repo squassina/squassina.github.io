@@ -54,6 +54,73 @@ description: "Ricardo Squassina Lee — executivo e estrategista de tecnologia c
   </div>
 </div>
 
+<div class="exec-section" id="contato">
+  <div class="exec-section-heading">
+    <div>
+      <p class="exec-eyebrow">CONTATO DIRETO</p>
+      <h2>Vamos conversar?</h2>
+    </div>
+  </div>
+  <p>Para projetos, aconselhamento em tecnologia, IA enterprise ou liderança técnica:</p>
+  <form id="contact-form" class="exec-contact-form">
+    <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
+    <div class="form-row">
+      <input type="text" name="name" placeholder="Seu nome" required>
+      <input type="email" name="email" placeholder="Seu e-mail" required>
+    </div>
+    <textarea name="message" rows="4" placeholder="Sua mensagem..." required></textarea>
+    <button type="submit" class="btn btn-primary" style="justify-self: start;">Enviar mensagem</button>
+    <div id="contact-status" class="exec-contact-status" style="display:none;"></div>
+  </form>
+</div>
+
+<script>
+(function() {
+  const form = document.getElementById('contact-form');
+  const status = document.getElementById('contact-status');
+  if (!form) return;
+  // shortcut: substituir WORKER_ENDPOINT_URL pela URL do seu Cloudflare Worker
+  const WORKER_URL = 'WORKER_ENDPOINT_URL';
+
+  form.addEventListener('submit', async function(e) {
+    e.preventDefault();
+    const btn = form.querySelector('button[type="submit"]');
+    const formData = new FormData(form);
+    const data = Object.fromEntries(formData.entries());
+
+    if (WORKER_URL === 'WORKER_ENDPOINT_URL') {
+      window.location.href = 'mailto:ricardoslee@gmail.com?subject=Contato via squassina.github.io&body=' + encodeURIComponent('Nome: ' + data.name + '\nEmail: ' + data.email + '\n\n' + data.message);
+      return;
+    }
+
+    btn.disabled = true;
+    status.style.display = 'block';
+    status.className = 'exec-contact-status';
+    status.textContent = 'Enviando...';
+
+    try {
+      const res = await fetch(WORKER_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data)
+      });
+      if (res.ok) {
+        status.className = 'exec-contact-status success';
+        status.textContent = 'Mensagem enviada com sucesso!';
+        form.reset();
+      } else {
+        throw new Error();
+      }
+    } catch (err) {
+      status.className = 'exec-contact-status error';
+      status.textContent = 'Erro ao enviar. Tente por email direto: ricardoslee@gmail.com';
+    } finally {
+      btn.disabled = false;
+    }
+  });
+})();
+</script>
+
 <div class="exec-footer-cta">
   <div><p class="exec-eyebrow">FORMAÇÃO</p><strong>MBA em Big Data & Analytics · FGV</strong><span>FATEC-SP · Certificações Microsoft, GitHub, Scrum e ITIL</span></div>
   <div><p class="exec-eyebrow">VAMOS CONVERSAR</p><a href="mailto:ricardoslee@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/ricardo-squassina-lee">LinkedIn</a> · <a href="https://github.com/squassina">GitHub</a></div>
