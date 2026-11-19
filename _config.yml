@@ -28,7 +28,7 @@ enable_medium_zoom: true
 enable_progressbar: true
 serve_og_meta: true
 serve_schema_org: true
-og_image:
+og_image: assets/img/og-preview.png
 analytics:
   google:
   cronitor:

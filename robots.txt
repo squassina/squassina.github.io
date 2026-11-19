@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://squassina.github.io/sitemap.xml

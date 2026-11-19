@@ -8,13 +8,18 @@ description: "Ricardo Squassina Lee — enterprise technology executive and stra
 ---
 
 <div class="exec-hero">
-  <p class="exec-eyebrow">TECHNOLOGY STRATEGY · AI · CLOUD · ENGINEERING TRANSFORMATION</p>
-  <h1>Ricardo Squassina Lee</h1>
-  <p class="exec-lead">Turning technology strategy into business outcomes.</p>
-  <p>More than two decades connecting executive leadership, architecture, and execution in enterprise environments — with experience at Microsoft and IBM.</p>
-  <div class="exec-actions">
-    <a class="btn btn-primary" href="/en/career/">Professional experience</a>
-    <a class="btn btn-outline-primary" href="#contact">Get in touch</a>
+  <div class="exec-hero-content">
+    <p class="exec-eyebrow">TECHNOLOGY STRATEGY · AI · CLOUD · ENGINEERING TRANSFORMATION</p>
+    <h1>Ricardo Squassina Lee</h1>
+    <p class="exec-lead">Turning technology strategy into business outcomes.</p>
+    <p>More than two decades connecting executive leadership, architecture, and execution in enterprise environments — with experience at Microsoft and IBM.</p>
+    <div class="exec-actions">
+      <a class="btn btn-primary" href="/en/career/">Professional experience</a>
+      <a class="btn btn-outline-primary" href="#contact">Get in touch</a>
+    </div>
+  </div>
+  <div class="exec-hero-photo">
+    <img src="{{ '/assets/img/about.jpg' | relative_url }}" alt="Ricardo Squassina Lee" width="140" height="140">
   </div>
 </div>
 
@@ -68,7 +73,7 @@ description: "Ricardo Squassina Lee — enterprise technology executive and stra
       <input type="text" name="name" placeholder="Your name" required>
       <input type="email" name="email" placeholder="Your email" required>
     </div>
-    <textarea name="message" rows="4" placeholder="Your message..." required></textarea>
+    <textarea name="message" rows="4" maxlength="1500" placeholder="Your message..." required></textarea>
     <button type="submit" class="btn btn-primary" style="justify-self: start;">Send message</button>
     <div id="contact-status" class="exec-contact-status" style="display:none;"></div>
   </form>

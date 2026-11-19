@@ -8,13 +8,18 @@ description: "Ricardo Squassina Lee — executivo e estrategista de tecnologia c
 ---
 
 <div class="exec-hero">
-  <p class="exec-eyebrow">TECHNOLOGY STRATEGY · AI · CLOUD · ENGINEERING TRANSFORMATION</p>
-  <h1>Ricardo Squassina Lee</h1>
-  <p class="exec-lead">Transformo estratégia de tecnologia em resultados de negócio.</p>
-  <p>Mais de duas décadas conectando liderança executiva, arquitetura e execução em ambientes enterprise — com experiência em Microsoft e IBM.</p>
-  <div class="exec-actions">
-    <a class="btn btn-primary" href="/career/">Experiência profissional</a>
-    <a class="btn btn-outline-primary" href="#contato">Entrar em contato</a>
+  <div class="exec-hero-content">
+    <p class="exec-eyebrow">TECHNOLOGY STRATEGY · AI · CLOUD · ENGINEERING TRANSFORMATION</p>
+    <h1>Ricardo Squassina Lee</h1>
+    <p class="exec-lead">Transformo estratégia de tecnologia em resultados de negócio.</p>
+    <p>Mais de duas décadas conectando liderança executiva, arquitetura e execução em ambientes enterprise — com experiência em Microsoft e IBM.</p>
+    <div class="exec-actions">
+      <a class="btn btn-primary" href="/career/">Experiência profissional</a>
+      <a class="btn btn-outline-primary" href="#contato">Entrar em contato</a>
+    </div>
+  </div>
+  <div class="exec-hero-photo">
+    <img src="{{ '/assets/img/about.jpg' | relative_url }}" alt="Ricardo Squassina Lee" width="140" height="140">
   </div>
 </div>
 
@@ -68,7 +73,7 @@ description: "Ricardo Squassina Lee — executivo e estrategista de tecnologia c
       <input type="text" name="name" placeholder="Seu nome" required>
       <input type="email" name="email" placeholder="Seu e-mail" required>
     </div>
-    <textarea name="message" rows="4" placeholder="Sua mensagem..." required></textarea>
+    <textarea name="message" rows="4" maxlength="1500" placeholder="Sua mensagem..." required></textarea>
     <button type="submit" class="btn btn-primary" style="justify-self: start;">Enviar mensagem</button>
     <div id="contact-status" class="exec-contact-status" style="display:none;"></div>
   </form>
