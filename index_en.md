@@ -57,16 +57,16 @@ description: "Ricardo Squassina Lee — enterprise technology executive and stra
     <a href="/en/projects/">All projects →</a>
   </div>
   <div class="exec-projects">
-    <a href="https://squassina.github.io/agent-flow/"><strong>Agent Flow</strong><span>Helps teams observe AI agent workflows and token usage through browser and Docker deployments built with FastAPI and Streamlit.</span></a>
-    <a href="https://squassina.github.io/PromptGen/"><strong>PromptGen</strong><span>Turns natural-language needs into structured, editable prompts for planning, research, writing, and coding.</span></a>
-    <a href="https://squassina.github.io/CV-JD-Match/"><strong>CV-JD-Match</strong><span>Compares resumes with job descriptions using LLM-assisted analysis, then helps tailor application materials.</span></a>
+    <a href="https://squassina.github.io/agent-flow/"><strong>Agent Flow</strong><span>Gives teams visibility into AI agent workflows and token usage through browser and Docker deployments built with FastAPI and Streamlit.</span></a>
+    <a href="https://squassina.github.io/PromptGen/"><strong>PromptGen</strong><span>Turns natural-language needs into editable prompts for planning and development through a structured web interface.</span></a>
+    <a href="https://squassina.github.io/CV-JD-Match/"><strong>CV-JD-Match</strong><span>Compares resumes with job descriptions using LLM-assisted analysis and generates application materials in a client-side interface.</span></a>
   </div>
 </div>
 
 <div class="exec-section exec-experience">
   <p class="exec-eyebrow">CAREER</p>
-  <div class="exec-company"><strong>MICROSOFT</strong><span>Technology strategy · Software engineering · Engineering operations</span></div>
-  <div class="exec-company"><strong>IBM</strong><span>IBM Watson · Enterprise solutions · Services architecture</span></div>
+  <div class="exec-company"><strong>MICROSOFT</strong><span>Account Technology Strategist · Senior Software Engineer · Business Programs & Operations</span></div>
+  <div class="exec-company"><strong>IBM</strong><span>Services Solutions Manager · Watson Latin America · Technical Solution Manager</span></div>
   <p><a href="/en/career/">View full professional experience and outcomes →</a></p>
 </div>
 

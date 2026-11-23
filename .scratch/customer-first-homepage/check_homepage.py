@@ -19,7 +19,7 @@ required = {
         "Discuss a project",
     ],
     "Portuguese": [
-        "Estratégia de Tecnologia, IA & Transformação para Líderes Empresariais",
+        "Estratégia de Tecnologia, IA & Transformação de Negócios para Líderes Empresariais",
         "Consultoria e liderança prática para IA enterprise, cloud e transformação de engenharia",
         "245%",
         "1.000+",

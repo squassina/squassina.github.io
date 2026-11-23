@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Estratégia de Tecnologia, IA & Transformação para Líderes Empresariais
+title: Estratégia de Tecnologia, IA & Transformação de Negócios para Líderes Empresariais
 permalink: /
 lang: pt-BR
 nav: false
@@ -10,7 +10,7 @@ description: "Ricardo Squassina Lee — executivo e estrategista de tecnologia c
 <div class="exec-hero">
   <div class="exec-hero-content">
     <p class="exec-eyebrow">TECHNOLOGY STRATEGY · AI · CLOUD · ENGINEERING TRANSFORMATION</p>
-    <h1>Estratégia de Tecnologia, IA &amp; Transformação para Líderes Empresariais</h1>
+    <h1>Estratégia de Tecnologia, IA &amp; Transformação de Negócios para Líderes Empresariais</h1>
     <p class="exec-lead">Consultoria e liderança prática para IA enterprise, cloud e transformação de engenharia.</p>
     <p>Mais de duas décadas conectando liderança executiva, arquitetura e execução em ambientes enterprise — com experiência em Microsoft e IBM.</p>
     <div class="exec-actions">
@@ -57,16 +57,16 @@ description: "Ricardo Squassina Lee — executivo e estrategista de tecnologia c
     <a href="/projects/">Todos os projetos →</a>
   </div>
   <div class="exec-projects">
-    <a href="https://squassina.github.io/agent-flow/"><strong>Agent Flow</strong><span>Ajuda equipes a observar fluxos de agentes de IA e consumo de tokens em versões web e Docker com FastAPI e Streamlit.</span></a>
-    <a href="https://squassina.github.io/PromptGen/"><strong>PromptGen</strong><span>Transforma necessidades em linguagem natural em prompts estruturados e editáveis para planejamento, pesquisa, escrita e código.</span></a>
-    <a href="https://squassina.github.io/CV-JD-Match/"><strong>CV-JD-Match</strong><span>Compara currículos e vagas com análise assistida por LLM e ajuda a adaptar materiais de candidatura.</span></a>
+    <a href="https://squassina.github.io/agent-flow/"><strong>Agent Flow</strong><span>Dá às equipes visibilidade sobre agentes e custos de IA em versões web e Docker com FastAPI e Streamlit.</span></a>
+    <a href="https://squassina.github.io/PromptGen/"><strong>PromptGen</strong><span>Transforma necessidades em linguagem natural em prompts editáveis para planejamento e desenvolvimento com interface web.</span></a>
+    <a href="https://squassina.github.io/CV-JD-Match/"><strong>CV-JD-Match</strong><span>Compara currículos e vagas com análise assistida por LLM e gera materiais de candidatura em uma interface client-side.</span></a>
   </div>
 </div>
 
 <div class="exec-section exec-experience">
   <p class="exec-eyebrow">TRAJETÓRIA</p>
-  <div class="exec-company"><strong>MICROSOFT</strong><span>Estratégia de tecnologia · Engenharia de software · Operações de engenharia</span></div>
-  <div class="exec-company"><strong>IBM</strong><span>IBM Watson · Soluções enterprise · Arquitetura de serviços</span></div>
+  <div class="exec-company"><strong>MICROSOFT</strong><span>Account Technology Strategist · Senior Software Engineer · Business Programs & Operations</span></div>
+  <div class="exec-company"><strong>IBM</strong><span>Services Solutions Manager · Watson Latin America · Technical Solution Manager</span></div>
   <p><a href="/career/">Ver experiência profissional completa e resultados →</a></p>
 </div>
 
