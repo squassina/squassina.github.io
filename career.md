@@ -19,7 +19,7 @@ Mais de duas décadas conectando estratégia, arquitetura e execução em empres
 
 Conselheiro tecnológico para contas enterprise estratégicas, conectando prioridades de negócio a roadmaps de Azure, Data & AI, Microsoft Fabric, Power BI, Dynamics 365 e Modern Work. Liderei programas de transformação da engenharia e adoção do GitHub Copilot, além de discussões de arquitetura, FinOps e governança com CIOs, CTOs e líderes de engenharia.
 
-**Resultados selecionados**
+**Resultados**
 - Atingi **245% da cota de vendas** no território de Serviços Financeiros.
 - Governei pipeline consultivo enterprise de **US$ 30M+**.
 - Conduzi iniciativas de capacitação e adoção de GitHub Copilot para mais de **1.000 desenvolvedores**, além de grupos adicionais de engenharia.
@@ -31,7 +31,7 @@ Conselheiro tecnológico para contas enterprise estratégicas, conectando priori
 
 Projetei e co-desenvolvi soluções de software, dados e IA em Azure. Liderei tecnicamente iniciativas de modernização de bancos de dados para Azure Cosmos DB, ingestão e análise de logs em tempo real com Azure Data Explorer, detecção de anomalias aplicada à segurança e automação de infraestrutura com Terraform e CI/CD.
 
-**Resultados selecionados**
+**Resultados**
 - Modernizei plataformas relacionais críticas para arquiteturas distribuídas e de alta disponibilidade.
 - Entreguei soluções de IA para segurança corporativa, processamento de imagens e automação documental.
 - Estruturei pipelines de dados e análise operacional em tempo real para detecção proativa de anomalias.
@@ -43,7 +43,7 @@ Projetei e co-desenvolvi soluções de software, dados e IA em Azure. Liderei te
 
 Estruturei governança operacional e indicadores executivos para uma organização regional, com dashboards integrando Visual Studio Team Services/Azure DevOps e Power BI.
 
-**Resultados selecionados**
+**Resultados**
 - Escalei a solução de reporting para divisões operacionais das Américas.
 - Aumentei a visibilidade de investimentos, indicadores e alocação de recursos regionais.
 
@@ -56,7 +56,7 @@ Estruturei governança operacional e indicadores executivos para uma organizaç�
 
 Liderei desenho arquitetural e implantação de soluções pioneiras de computação cognitiva com IBM Watson na América Latina. Traduzi desafios corporativos em arquiteturas de IA, coordenando equipes, recursos e entregas multinacionais no Brasil, México e América do Sul Hispânica, em colaboração com centros globais de engenharia.
 
-**Resultados selecionados**
+**Resultados**
 - Pioneirizei a construção e entrega de sistemas empresariais baseados em IBM Watson na região.
 - Estabeleci padrões de arquitetura e governança para evoluir provas de conceito em soluções corporativas.
 - Integrei equipes globais e regionais para acelerar a transferência de conhecimento e as implantações.
@@ -68,7 +68,7 @@ Liderei desenho arquitetural e implantação de soluções pioneiras de computa�
 
 Estruturei propostas técnicas e comerciais para serviços complexos de gestão e modernização de aplicações, incluindo arquitetura, precificação, rentabilidade, conformidade, avaliação de riscos e transição para delivery.
 
-**Resultados selecionados**
+**Resultados**
 - Estruturei handovers integrados para reduzir desvios entre escopo comercial e capacidade de entrega.
 - Recebi reconhecimentos corporativos: **Sales Eminence Award, Service Excellence Award e Delivery Excellence Award**.
 
@@ -80,7 +80,7 @@ Estruturei propostas técnicas e comerciais para serviços complexos de gestão 
 - **Pós-graduação em Análise e Projeto de Sistemas de Informação** — FATEC-SP
 - **Tecnólogo em Processamento de Dados** — FATEC-SP
 
-## Certificações selecionadas
+## Certificações
 
 GitHub Copilot Certification · GitHub Foundations · Microsoft Certified: Azure AI Engineer Associate · Azure Data Engineer Associate · Azure Data Scientist Associate · Azure Cosmos DB Developer Specialty · Security, Compliance and Identity Fundamentals · Advanced Certified Scrum Product Owner (CSPO) · ITIL v3 Foundation · IBM Selling Profession Certification.
 
@@ -97,4 +97,4 @@ Português (nativo) · Inglês (fluente, IELTS).
 
 ---
 
-[Ver projetos selecionados](/projects/) · [Voltar à página inicial](/) · [LinkedIn](https://www.linkedin.com/in/ricardo-squassina-lee)
+[Ver projetos](/projects/) · [Voltar à página inicial](/) · [LinkedIn](https://www.linkedin.com/in/ricardo-squassina-lee)

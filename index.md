@@ -33,8 +33,8 @@ description: "Ricardo Squassina Lee — executivo e estrategista de tecnologia c
 </div>
 
 <div class="exec-section">
-  <p class="exec-eyebrow">CERTIFICADOS SELECIONADOS</p>
-  <div class="exec-selected-credentials">
+  <p class="exec-eyebrow">CERTIFICADOS</p>
+  <div class="exec-credentials">
     <span>GitHub Copilot</span>
     <span>GitHub Foundations</span>
     <span>Azure AI Engineer</span>
@@ -53,7 +53,7 @@ description: "Ricardo Squassina Lee — executivo e estrategista de tecnologia c
 
 <div class="exec-section">
   <div class="exec-section-heading">
-    <div><p class="exec-eyebrow">PROJETOS NA PRÁTICA</p><h2>Trabalhos selecionados</h2></div>
+    <div><p class="exec-eyebrow">PROJETOS NA PRÁTICA</p><h2>Trabalhos</h2></div>
     <a href="/projects/">Todos os projetos →</a>
   </div>
   <div class="exec-projects">

@@ -19,7 +19,7 @@ More than two decades connecting strategy, architecture, and execution in global
 
 Technology advisor to strategic enterprise accounts, connecting business priorities to roadmaps across Azure, Data & AI, Microsoft Fabric, Power BI, Dynamics 365, and Modern Work. Led engineering transformation and GitHub Copilot adoption programs, as well as architecture, FinOps, and governance discussions with CIOs, CTOs, and engineering leaders.
 
-**Selected results**
+**Results**
 - Achieved **245% of sales quota** in the Financial Services territory.
 - Governed a **US$30M+ enterprise pipeline**.
 - Led GitHub Copilot adoption and hands-on enablement initiatives reaching more than **1,000 developers**, plus additional engineering groups.
@@ -31,7 +31,7 @@ Technology advisor to strategic enterprise accounts, connecting business priorit
 
 Designed and co-developed software, data, and AI solutions on Azure. Led technical initiatives to modernize databases with Azure Cosmos DB, build real-time log ingestion and analytics with Azure Data Explorer, apply anomaly detection to cybersecurity, and automate infrastructure using Terraform and CI/CD.
 
-**Selected results**
+**Results**
 - Modernized critical relational data platforms into highly available distributed architectures.
 - Delivered AI solutions for enterprise security, image processing, and document workflow automation.
 - Built data pipelines and real-time operational analytics for proactive anomaly detection.
@@ -43,7 +43,7 @@ Designed and co-developed software, data, and AI solutions on Azure. Led technic
 
 Established operational governance and executive performance indicators for a regional organization, with dashboards integrating Visual Studio Team Services/Azure DevOps and Power BI.
 
-**Selected results**
+**Results**
 - Scaled the reporting solution to operational divisions across the Americas.
 - Improved visibility into regional investments, performance indicators, and resource allocation.
 
@@ -56,7 +56,7 @@ Established operational governance and executive performance indicators for a re
 
 Led architecture and implementation of pioneering IBM Watson cognitive computing solutions across Latin America. Translated enterprise challenges into AI architectures and coordinated technical and financial resources across Brazil, Mexico, and Spanish-speaking South America, collaborating with IBM engineering centers worldwide.
 
-**Selected results**
+**Results**
 - Pioneered the design and delivery of IBM Watson-based enterprise systems in the region.
 - Established architecture and governance practices to move proofs of concept toward enterprise solutions.
 - Connected global and regional teams to accelerate knowledge transfer and deployments.
@@ -68,7 +68,7 @@ Led architecture and implementation of pioneering IBM Watson cognitive computing
 
 Developed end-to-end technical and commercial proposals for complex application management and modernization services, covering architecture, pricing, profitability, compliance, risk assessment, and delivery transition.
 
-**Selected results**
+**Results**
 - Established integrated handover processes to reduce gaps between commercial scope and delivery capacity.
 - Received corporate recognition: **Sales Eminence Award, Service Excellence Award, and Delivery Excellence Award**.
 
@@ -80,7 +80,7 @@ Developed end-to-end technical and commercial proposals for complex application 
 - **Postgraduate Studies in Information Systems Analysis and Design** — FATEC-SP
 - **Technology Degree in Data Processing** — FATEC-SP
 
-## Selected certifications
+## Certifications
 
 GitHub Copilot Certification · GitHub Foundations · Microsoft Certified: Azure AI Engineer Associate · Azure Data Engineer Associate · Azure Data Scientist Associate · Azure Cosmos DB Developer Specialty · Security, Compliance and Identity Fundamentals · Advanced Certified Scrum Product Owner (CSPO) · ITIL v3 Foundation · IBM Selling Profession Certification.
 
@@ -97,4 +97,4 @@ Portuguese (native) · English (fluent, IELTS).
 
 ---
 
-[View selected projects](/en/projects/) · [Back to homepage](/en/) · [LinkedIn](https://www.linkedin.com/in/ricardo-squassina-lee)
+[View projects](/en/projects/) · [Back to homepage](/en/) · [LinkedIn](https://www.linkedin.com/in/ricardo-squassina-lee)

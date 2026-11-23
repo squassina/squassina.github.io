@@ -33,8 +33,8 @@ description: "Ricardo Squassina Lee — enterprise technology executive and stra
 </div>
 
 <div class="exec-section">
-  <p class="exec-eyebrow">SELECTED CREDENTIALS</p>
-  <div class="exec-selected-credentials">
+  <p class="exec-eyebrow">CREDENTIALS</p>
+  <div class="exec-credentials">
     <span>GitHub Copilot</span>
     <span>GitHub Foundations</span>
     <span>Azure AI Engineer</span>
@@ -53,7 +53,7 @@ description: "Ricardo Squassina Lee — enterprise technology executive and stra
 
 <div class="exec-section">
   <div class="exec-section-heading">
-    <div><p class="exec-eyebrow">PROJECTS IN PRACTICE</p><h2>Selected work</h2></div>
+    <div><p class="exec-eyebrow">PROJECTS IN PRACTICE</p><h2>Work</h2></div>
     <a href="/en/projects/">All projects →</a>
   </div>
   <div class="exec-projects">
