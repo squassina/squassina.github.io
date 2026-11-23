@@ -21,7 +21,6 @@ Conselheiro tecnológico para contas enterprise estratégicas, conectando priori
 
 **Resultados selecionados**
 - Atingi **245% da cota de vendas** no território de Serviços Financeiros.
-- Assegurei compromissos estratégicos plurianuais de cloud de **US$ 50M+**, com viabilidade arquitetural.
 - Viabilizei conquista comercial multimilionária em Microsoft 365 E5.
 - Governei pipeline consultivo enterprise de **US$ 30M+**.
 - Conduzi iniciativas de capacitação e adoção de GitHub Copilot para mais de **1.000 desenvolvedores**, além de grupos adicionais de engenharia.

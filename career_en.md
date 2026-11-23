@@ -21,7 +21,6 @@ Technology advisor to strategic enterprise accounts, connecting business priorit
 
 **Selected results**
 - Achieved **245% of sales quota** in the Financial Services territory.
-- Secured **US$50M+ in strategic multi-year cloud commitments**, backed by architectural feasibility.
 - Enabled a multi-million-dollar Microsoft 365 E5 strategic win.
 - Governed a **US$30M+ enterprise pipeline**.
 - Led GitHub Copilot adoption and hands-on enablement initiatives reaching more than **1,000 developers**, plus additional engineering groups.

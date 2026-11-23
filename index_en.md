@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Technology Strategy, AI & Business Transformation
+title: Technology Strategy, AI & Business Transformation for Enterprise Leaders
 permalink: /en/
 lang: en
 nav: false
@@ -10,12 +10,12 @@ description: "Ricardo Squassina Lee — enterprise technology executive and stra
 <div class="exec-hero">
   <div class="exec-hero-content">
     <p class="exec-eyebrow">TECHNOLOGY STRATEGY · AI · CLOUD · ENGINEERING TRANSFORMATION</p>
-    <h1>Ricardo Squassina Lee</h1>
-    <p class="exec-lead">Turning technology strategy into business outcomes.</p>
+    <h1>Technology Strategy, AI &amp; Business Transformation for Enterprise Leaders</h1>
+    <p class="exec-lead">Advisory and hands-on leadership for enterprise AI, cloud, and engineering transformation.</p>
     <p>More than two decades connecting executive leadership, architecture, and execution in enterprise environments — with experience at Microsoft and IBM.</p>
     <div class="exec-actions">
-      <a class="btn btn-primary" href="/en/career/">Professional experience</a>
-      <a class="btn btn-outline-primary" href="#contact">Get in touch</a>
+      <a class="btn btn-primary" href="#contact">Discuss a project</a>
+      <a class="btn btn-outline-primary" href="/en/career/">Professional experience</a>
     </div>
   </div>
   <div class="exec-hero-photo">
@@ -23,40 +23,51 @@ description: "Ricardo Squassina Lee — enterprise technology executive and stra
   </div>
 </div>
 
-<div class="exec-metrics">
-  <div class="exec-metric"><strong>245%</strong><span>Sales quota attainment</span></div>
-  <div class="exec-metric"><strong>US$50M+</strong><span>Strategic cloud commitments</span></div>
-  <div class="exec-metric"><strong>1,000+</strong><span>Developers enabled</span></div>
-  <div class="exec-metric"><strong>US$30M+</strong><span>Enterprise pipeline</span></div>
-</div>
-
 <div class="exec-section">
   <p class="exec-eyebrow">WHERE I ADD VALUE</p>
   <div class="exec-pillars">
     <div><h3>Strategy & AI</h3><p>AI roadmaps, enterprise adoption, operating models, and value-driven governance.</p></div>
     <div><h3>Cloud & architecture</h3><p>Platform modernization, data, solution architecture, security, and FinOps.</p></div>
-    <div><h3>Engineering & leadership</h3><p>Engineering productivity, AI-assisted development, and organizational transformation.</p></div>
+    <div><h3>Engineering & leadership</h3><p>Engineering transformation, AI-assisted development, engineering productivity, and organizational change.</p></div>
+  </div>
+</div>
+
+<div class="exec-section">
+  <p class="exec-eyebrow">BUSINESS OUTCOMES</p>
+  <div class="exec-metrics">
+    <div class="exec-metric"><strong>245%</strong><span>Sales quota attainment</span></div>
+    <div class="exec-metric"><strong>1,000+</strong><span>Developers enabled</span></div>
+    <div class="exec-metric"><strong>US$30M+</strong><span>Enterprise pipeline</span></div>
+  </div>
+</div>
+
+<div class="exec-section">
+  <p class="exec-eyebrow">SELECTED CREDENTIALS</p>
+  <div class="exec-selected-credentials">
+    <span>GitHub Copilot</span>
+    <span>GitHub Foundations</span>
+    <span>Azure AI Engineer</span>
+    <span>Azure Data Engineer</span>
+  </div>
+</div>
+
+<div class="exec-section">
+  <div class="exec-section-heading">
+    <div><p class="exec-eyebrow">PROJECTS IN PRACTICE</p><h2>Selected work</h2></div>
+    <a href="/en/projects/">All projects →</a>
+  </div>
+  <div class="exec-projects">
+    <a href="https://squassina.github.io/agent-flow/"><strong>Agent Flow</strong><span>Browser and Docker deployments for registering, connecting, and monitoring LLM agents and token usage.</span></a>
+    <a href="https://squassina.github.io/PromptGen/"><strong>PromptGen</strong><span>Turns natural-language needs into structured, editable prompts for planning, research, writing, and coding.</span></a>
+    <a href="https://squassina.github.io/CV-JD-Match/"><strong>CV-JD-Match</strong><span>Compares resumes with job descriptions using LLM-assisted analysis, then helps tailor application materials.</span></a>
   </div>
 </div>
 
 <div class="exec-section exec-experience">
   <p class="exec-eyebrow">CAREER</p>
-  <div class="exec-company"><strong>MICROSOFT</strong><span>Technology strategy · Software engineering · Business operations</span></div>
+  <div class="exec-company"><strong>MICROSOFT</strong><span>Technology strategy · Software engineering · Engineering operations</span></div>
   <div class="exec-company"><strong>IBM</strong><span>IBM Watson · Enterprise solutions · Services architecture</span></div>
-  <p><a href="/en/career/">Explore experience, outcomes, and technologies →</a></p>
-</div>
-
-<div class="exec-section">
-  <div class="exec-section-heading">
-    <div><p class="exec-eyebrow">BUILDING & PRACTICE</p><h2>Selected projects</h2></div>
-    <a href="/en/projects/">All projects →</a>
-  </div>
-  <div class="exec-projects">
-    <a href="https://squassina.github.io/TechJobScout-lite/"><strong>TechJobScout-lite</strong><span>Opportunity discovery and interview preparation for technology professionals.</span></a>
-    <a href="https://squassina.github.io/PromptGen/"><strong>PromptGen</strong><span>Structured prompts generated from plain-language needs.</span></a>
-    <a href="https://squassina.github.io/XadrezMestre/"><strong>XadrezMestre</strong><span>Open-source chess application built with React, TypeScript, and Stockfish.</span></a>
-    <a href="https://squassina.github.io/CV-JD-Match/"><strong>CV-JD-Match</strong><span>LLM-assisted resume and job description matching.</span></a>
-  </div>
+  <p><a href="/en/career/">View full professional experience and outcomes →</a></p>
 </div>
 
 <div class="exec-section" id="contact">
