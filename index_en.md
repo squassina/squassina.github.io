@@ -33,15 +33,6 @@ description: "Ricardo Squassina Lee — enterprise technology executive and stra
 </div>
 
 <div class="exec-section">
-  <p class="exec-eyebrow">BUSINESS OUTCOMES</p>
-  <div class="exec-metrics">
-    <div class="exec-metric"><strong>245%</strong><span>Sales quota attainment</span></div>
-    <div class="exec-metric"><strong>1,000+</strong><span>Developers enabled</span></div>
-    <div class="exec-metric"><strong>US$30M+</strong><span>Enterprise pipeline</span></div>
-  </div>
-</div>
-
-<div class="exec-section">
   <p class="exec-eyebrow">SELECTED CREDENTIALS</p>
   <div class="exec-selected-credentials">
     <span>GitHub Copilot</span>
@@ -52,12 +43,21 @@ description: "Ricardo Squassina Lee — enterprise technology executive and stra
 </div>
 
 <div class="exec-section">
+  <p class="exec-eyebrow">BUSINESS OUTCOMES</p>
+  <div class="exec-metrics">
+    <div class="exec-metric"><strong>245%</strong><span>Sales quota attainment</span></div>
+    <div class="exec-metric"><strong>1,000+</strong><span>Developers enabled</span></div>
+    <div class="exec-metric"><strong>US$30M+</strong><span>Enterprise pipeline</span></div>
+  </div>
+</div>
+
+<div class="exec-section">
   <div class="exec-section-heading">
     <div><p class="exec-eyebrow">PROJECTS IN PRACTICE</p><h2>Selected work</h2></div>
     <a href="/en/projects/">All projects →</a>
   </div>
   <div class="exec-projects">
-    <a href="https://squassina.github.io/agent-flow/"><strong>Agent Flow</strong><span>Browser and Docker deployments for registering, connecting, and monitoring LLM agents and token usage.</span></a>
+    <a href="https://squassina.github.io/agent-flow/"><strong>Agent Flow</strong><span>Helps teams observe AI agent workflows and token usage through browser and Docker deployments built with FastAPI and Streamlit.</span></a>
     <a href="https://squassina.github.io/PromptGen/"><strong>PromptGen</strong><span>Turns natural-language needs into structured, editable prompts for planning, research, writing, and coding.</span></a>
     <a href="https://squassina.github.io/CV-JD-Match/"><strong>CV-JD-Match</strong><span>Compares resumes with job descriptions using LLM-assisted analysis, then helps tailor application materials.</span></a>
   </div>

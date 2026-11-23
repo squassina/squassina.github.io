@@ -21,7 +21,6 @@ Technology advisor to strategic enterprise accounts, connecting business priorit
 
 **Selected results**
 - Achieved **245% of sales quota** in the Financial Services territory.
-- Enabled a multi-million-dollar Microsoft 365 E5 strategic win.
 - Governed a **US$30M+ enterprise pipeline**.
 - Led GitHub Copilot adoption and hands-on enablement initiatives reaching more than **1,000 developers**, plus additional engineering groups.
 
@@ -42,10 +41,9 @@ Designed and co-developed software, data, and AI solutions on Azure. Led technic
 ### Senior Business Programs & Operations Manager
 *Sep 2017 – Jun 2018*
 
-Co-managed a multi-million-dollar regional operating budget across Latin America, supporting a 25-person organization. Established operational governance, executive performance indicators, and dashboards integrating Visual Studio Team Services/Azure DevOps with Power BI.
+Established operational governance and executive performance indicators for a regional organization, with dashboards integrating Visual Studio Team Services/Azure DevOps and Power BI.
 
 **Selected results**
-- Reduced executive reporting consolidation cycles from up to **three weeks to real-time visibility**.
 - Scaled the reporting solution to operational divisions across the Americas.
 - Improved visibility into regional investments, performance indicators, and resource allocation.
 
@@ -71,7 +69,6 @@ Led architecture and implementation of pioneering IBM Watson cognitive computing
 Developed end-to-end technical and commercial proposals for complex application management and modernization services, covering architecture, pricing, profitability, compliance, risk assessment, and delivery transition.
 
 **Selected results**
-- Ensured **100% technical and regulatory compliance** for proposals submitted to executive approval committees.
 - Established integrated handover processes to reduce gaps between commercial scope and delivery capacity.
 - Received corporate recognition: **Sales Eminence Award, Service Excellence Award, and Delivery Excellence Award**.
 

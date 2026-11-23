@@ -33,15 +33,6 @@ description: "Ricardo Squassina Lee — executivo e estrategista de tecnologia c
 </div>
 
 <div class="exec-section">
-  <p class="exec-eyebrow">RESULTADOS DE NEGÓCIO</p>
-  <div class="exec-metrics">
-    <div class="exec-metric"><strong>245%</strong><span>Atingimento de meta comercial</span></div>
-    <div class="exec-metric"><strong>1.000+</strong><span>Desenvolvedores habilitados</span></div>
-    <div class="exec-metric"><strong>US$ 30M+</strong><span>Pipeline enterprise</span></div>
-  </div>
-</div>
-
-<div class="exec-section">
   <p class="exec-eyebrow">CERTIFICADOS SELECIONADOS</p>
   <div class="exec-selected-credentials">
     <span>GitHub Copilot</span>
@@ -52,12 +43,21 @@ description: "Ricardo Squassina Lee — executivo e estrategista de tecnologia c
 </div>
 
 <div class="exec-section">
+  <p class="exec-eyebrow">RESULTADOS DE NEGÓCIO</p>
+  <div class="exec-metrics">
+    <div class="exec-metric"><strong>245%</strong><span>Atingimento de meta comercial</span></div>
+    <div class="exec-metric"><strong>1.000+</strong><span>Desenvolvedores habilitados</span></div>
+    <div class="exec-metric"><strong>US$ 30M+</strong><span>Pipeline enterprise</span></div>
+  </div>
+</div>
+
+<div class="exec-section">
   <div class="exec-section-heading">
     <div><p class="exec-eyebrow">PROJETOS NA PRÁTICA</p><h2>Trabalhos selecionados</h2></div>
     <a href="/projects/">Todos os projetos →</a>
   </div>
   <div class="exec-projects">
-    <a href="https://squassina.github.io/agent-flow/"><strong>Agent Flow</strong><span>Versões web e Docker para registrar, conectar e monitorar agentes de IA e consumo de tokens.</span></a>
+    <a href="https://squassina.github.io/agent-flow/"><strong>Agent Flow</strong><span>Ajuda equipes a observar fluxos de agentes de IA e consumo de tokens em versões web e Docker com FastAPI e Streamlit.</span></a>
     <a href="https://squassina.github.io/PromptGen/"><strong>PromptGen</strong><span>Transforma necessidades em linguagem natural em prompts estruturados e editáveis para planejamento, pesquisa, escrita e código.</span></a>
     <a href="https://squassina.github.io/CV-JD-Match/"><strong>CV-JD-Match</strong><span>Compara currículos e vagas com análise assistida por LLM e ajuda a adaptar materiais de candidatura.</span></a>
   </div>

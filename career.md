@@ -21,7 +21,6 @@ Conselheiro tecnológico para contas enterprise estratégicas, conectando priori
 
 **Resultados selecionados**
 - Atingi **245% da cota de vendas** no território de Serviços Financeiros.
-- Viabilizei conquista comercial multimilionária em Microsoft 365 E5.
 - Governei pipeline consultivo enterprise de **US$ 30M+**.
 - Conduzi iniciativas de capacitação e adoção de GitHub Copilot para mais de **1.000 desenvolvedores**, além de grupos adicionais de engenharia.
 
@@ -42,10 +41,9 @@ Projetei e co-desenvolvi soluções de software, dados e IA em Azure. Liderei te
 ### Senior Business Programs & Operations Manager
 *Set/2017 – Jun/2018*
 
-Co-gerenciei orçamento operacional regional multimilionário na América Latina, apoiando uma organização de 25 profissionais. Estruturei governança, indicadores executivos e dashboards integrando Visual Studio Team Services/Azure DevOps e Power BI.
+Estruturei governança operacional e indicadores executivos para uma organização regional, com dashboards integrando Visual Studio Team Services/Azure DevOps e Power BI.
 
 **Resultados selecionados**
-- Reduzi o ciclo de consolidação de relatórios executivos de até **três semanas para acompanhamento em tempo real**.
 - Escalei a solução de reporting para divisões operacionais das Américas.
 - Aumentei a visibilidade de investimentos, indicadores e alocação de recursos regionais.
 
@@ -71,7 +69,6 @@ Liderei desenho arquitetural e implantação de soluções pioneiras de computa�
 Estruturei propostas técnicas e comerciais para serviços complexos de gestão e modernização de aplicações, incluindo arquitetura, precificação, rentabilidade, conformidade, avaliação de riscos e transição para delivery.
 
 **Resultados selecionados**
-- Assegurei **100% de conformidade técnica e regulatória** nas propostas submetidas a comitês executivos.
 - Estruturei handovers integrados para reduzir desvios entre escopo comercial e capacidade de entrega.
 - Recebi reconhecimentos corporativos: **Sales Eminence Award, Service Excellence Award e Delivery Excellence Award**.
 

@@ -61,10 +61,10 @@ for language, page in source_pages.items():
     positions = [
         html.index('<p class="exec-eyebrow">WHERE I ADD VALUE</p>') if language == "English"
         else html.index('<p class="exec-eyebrow">COMO POSSO CONTRIBUIR</p>'),
-        html.index('<p class="exec-eyebrow">BUSINESS OUTCOMES</p>') if language == "English"
-        else html.index('<p class="exec-eyebrow">RESULTADOS DE NEGÓCIO</p>'),
         html.index('<p class="exec-eyebrow">SELECTED CREDENTIALS</p>') if language == "English"
         else html.index('<p class="exec-eyebrow">CERTIFICADOS SELECIONADOS</p>'),
+        html.index('<p class="exec-eyebrow">BUSINESS OUTCOMES</p>') if language == "English"
+        else html.index('<p class="exec-eyebrow">RESULTADOS DE NEGÓCIO</p>'),
         html.index('<p class="exec-eyebrow">PROJECTS IN PRACTICE</p>') if language == "English"
         else html.index('<p class="exec-eyebrow">PROJETOS NA PRÁTICA</p>'),
         html.index('<p class="exec-eyebrow">CAREER</p>') if language == "English"
@@ -75,5 +75,7 @@ for language, page in source_pages.items():
 for language, page in career_pages.items():
     markdown = page.read_text(encoding="utf-8")
     assert "US$50M+" not in markdown and "US$ 50M+" not in markdown, f"{language}: sensitive career claim remains"
+    for claim in ("25-person", "25 profissionais", "three weeks", "três semanas", "100%", "multi-million", "multimilion"):
+        assert claim not in markdown, f"{language}: unapproved career claim remains: {claim}"
 
 print("Homepage source assertions passed")
